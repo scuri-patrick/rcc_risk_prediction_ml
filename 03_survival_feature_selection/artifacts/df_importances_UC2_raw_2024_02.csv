@@ -1,0 +1,51 @@
+Dataset,Model,Monte-Carlo simulations,Feature compact,Feature extended,Freq. top 25,Freq. top 5,Freq. first rank,Type
+Raw DBURI dataset,Random Survival Forest – T1,100,ANM_1_examEmPiastrine,Anamnesi 1 Piastrine,100,71,20,float64
+Raw DBURI dataset,Random Survival Forest – T1,100,DEG_1_examEmPiastrine,Degenza 1 Piastrine,99,48,9,float64
+Raw DBURI dataset,Random Survival Forest – T1,100,DEG_1_hospitalStayDaysPostOp,Degenza 1 Tot GG Degenza post-operatoria,94,31,4,float64
+Raw DBURI dataset,Random Survival Forest – T1,100,IST_1_kidney1TumorDimension,Istologico 1 Dimensione del tumore (cm) Rene 1,91,35,6,float64
+Raw DBURI dataset,Random Survival Forest – T1,100,DEG_1_hospitalStayDaysTot,Degenza 1 Giorni degenza totali,91,35,6,float64
+Raw DBURI dataset,Random Survival Forest – T1,100,ANM_1_examEmEmoglobina,Anamnesi 1 Emoglobina,90,29,0,float64
+Raw DBURI dataset,Random Survival Forest – T1,100,DEG_1_examEmGFR,Degenza 1 GFR-MDRD,90,10,0,float64
+Raw DBURI dataset,Random Survival Forest – T1,100,ANM_1_age,Anamnesi 1 Eta',88,7,1,float64
+Raw DBURI dataset,Random Survival Forest – T1,100,IST_1_kidney1MayoScore,Istologico 1 Mayo Score Punteggio 1 Rene,87,59,34,float64
+Raw DBURI dataset,Random Survival Forest – T1,100,ANM_1_examEmeGFR,Anamnesi 1 eGFR-MDRD,82,7,0,float64
+Raw DBURI dataset,Random Survival Forest – T1,100,ANM_1_kidney1NeoplasiaDimension1,Anamnesi 1 Dimensione neoplasia rene 1,81,15,1,float64
+Raw DBURI dataset,Random Survival Forest – T1,100,ANM_1_patientBMI,Anamnesi 1 BMI,72,3,0,float64
+Raw DBURI dataset,Random Survival Forest – T1,100,DEG_1_examEmCreatininemia,Degenza 1 Creatininemia,70,3,0,float64
+Raw DBURI dataset,Random Survival Forest – T1,100,DEG_1_examEmCalcio,Degenza 1 Calcio,69,0,0,float64
+Raw DBURI dataset,Random Survival Forest – T1,100,IST_1_kidney1Grading,Istologico 1 Grading Rene 1,68,15,2,category
+Raw DBURI dataset,Random Survival Forest – T1,100,INT_1_kidney1AdrenalectomyType_Si,Intervento 1 Surrenalectomia Rene 1 Si,64,7,0,boolean
+Raw DBURI dataset,Random Survival Forest – T1,100,IST_1_kidney1MayoGrading,Istologico 1 Mayo Score Grado Nucleare Rene 1,63,7,1,float64
+Raw DBURI dataset,Random Survival Forest – T1,100,ANM_1_asa,Anamnesi 1 ASA,62,9,0,category
+Raw DBURI dataset,Random Survival Forest – T1,100,ANM_1_cciAge,Anamnesi 1 Charlson score (age adjusted),60,3,1,float64
+Raw DBURI dataset,Random Survival Forest – T1,100,DEG_1_examEmEmoglobina,Degenza 1 Emoglobina,59,4,0,float64
+Raw DBURI dataset,Random Survival Forest – T1,100,ANM_1_performanceStatus,Anamnesi 1 Performance Status,58,4,0,category
+Raw DBURI dataset,Random Survival Forest – T1,100,IST_1_kidney1MayoPN,Istologico 1 Mayo Score Stadio linfonodale Rene 1,56,27,5,float64
+Raw DBURI dataset,Random Survival Forest – T1,100,ANM_1_examToolTargetedRx,Anamnesi 1 RX mirata,53,10,1,boolean
+Raw DBURI dataset,Random Survival Forest – T1,100,IST_1_kidney1PN2009_1_0,Istologico 1 pN 2009 Rene 1 1_0,49,27,7,boolean
+Raw DBURI dataset,Random Survival Forest – T1,100,INT_1_examinationTime,Intervento 1 Durata intervento(min),49,1,0,float64
+Raw DBURI dataset,Random Survival Forest – T0,100,ANM_1_examEmPiastrine,Anamnesi 1 Piastrine,100,100,46,float64
+Raw DBURI dataset,Random Survival Forest – T0,100,ANM_1_kidney1NeoplasiaDimension1,Anamnesi 1 Dimensione neoplasia rene 1,100,96,51,float64
+Raw DBURI dataset,Random Survival Forest – T0,100,ANM_1_examEmEmoglobina,Anamnesi 1 Emoglobina,100,92,2,float64
+Raw DBURI dataset,Random Survival Forest – T0,100,ANM_1_age,Anamnesi 1 Eta',100,67,0,float64
+Raw DBURI dataset,Random Survival Forest – T0,100,ANM_1_performanceStatus,Anamnesi 1 Performance Status,100,45,0,category
+Raw DBURI dataset,Random Survival Forest – T0,100,ANM_1_examEmeGFR,Anamnesi 1 eGFR-MDRD,100,25,0,float64
+Raw DBURI dataset,Random Survival Forest – T0,100,ANM_1_examEmCreatininemia,Anamnesi 1 Creatininemia,100,9,0,float64
+Raw DBURI dataset,Random Survival Forest – T0,100,ANM_1_patientBMI,Anamnesi 1 BMI,99,4,0,float64
+Raw DBURI dataset,Random Survival Forest – T0,100,ANM_1_cciAge,Anamnesi 1 Charlson score (age adjusted),98,1,0,float64
+Raw DBURI dataset,Random Survival Forest – T0,100,ANM_1_asa,Anamnesi 1 ASA,97,20,0,category
+Raw DBURI dataset,Random Survival Forest – T0,100,ANM_1_examEmEmoglobinaRange_14_0-18_0,Anamnesi 1 Emoglobina Valori di riferimento 14_0-18_0,97,5,0,boolean
+Raw DBURI dataset,Random Survival Forest – T0,100,ANM_1_lymphadenopathy_Positivo,Anamnesi 1 LINFOADENOPATIE Positivo,94,21,1,boolean
+Raw DBURI dataset,Random Survival Forest – T0,100,ANM_1_examToolTargetedRx,Anamnesi 1 RX mirata,93,1,0,boolean
+Raw DBURI dataset,Random Survival Forest – T0,100,ANM_1_symptomsBeginning_Sintomiall'esordio,Anamnesi 1 Sintomi Esordio Sintomiall'esordio,92,0,0,boolean
+Raw DBURI dataset,Random Survival Forest – T0,100,ANM_1_symptomsBeginning_Pazienteasintomatico,Anamnesi 1 Sintomi Esordio Pazienteasintomatico,89,3,0,boolean
+Raw DBURI dataset,Random Survival Forest – T0,100,ANM_1_charlsonIndex,Anamnesi 1 Charlson score,86,0,0,float64
+Raw DBURI dataset,Random Survival Forest – T0,100,ANM_1_kidney1ClinicalStage2009,Anamnesi 1 Stadio Clinico 2009 (T clinico) rene 1,78,5,0,category
+Raw DBURI dataset,Random Survival Forest – T0,100,ANM_1_symptomsBeginningScoreString_SintomiEsordioLocali,Anamnesi 1 Sintomi esordio punteggio stringa SintomiEsordioLocali,78,0,0,boolean
+Raw DBURI dataset,Random Survival Forest – T0,100,ANM_1_examToolEchoColorDoppler,Anamnesi 1 Eco color doppler,76,1,0,boolean
+Raw DBURI dataset,Random Survival Forest – T0,100,ANM_1_previousAbdominalOperations,Anamnesi 1 Interventi Pregressi Addominali,74,0,0,boolean
+Raw DBURI dataset,Random Survival Forest – T0,100,ANM_1_examToolEchocardiogram,Anamnesi 1 Ecocardiogramma,70,0,0,boolean
+Raw DBURI dataset,Random Survival Forest – T0,100,ANM_1_examToolScintigraphy_Noneseguita,Anamnesi 1 SCINTIGRAFIA Noneseguita,61,0,0,boolean
+Raw DBURI dataset,Random Survival Forest – T0,100,P_1_sex_M,Paziente 1 Sesso M,58,0,0,boolean
+Raw DBURI dataset,Random Survival Forest – T0,100,ANM_1_symptomsBeginningLocalMacroematuria,Anamnesi 1 Sintomi Esordio Locali Macroematuria,52,0,0,boolean
+Raw DBURI dataset,Random Survival Forest – T0,100,ANM_1_symptomsBeginningScore_1,Anamnesi 1 Sintomi esordio punteggio 1,47,0,0,boolean

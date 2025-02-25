@@ -1,0 +1,601 @@
+model,model_path,random_state,parent_run_id,n_features_in,feature_names_in,best_performance_tuning,concordance_index_censored,concordance_index_ipcw,integrated_brier_score,mean_cumulative_dynamic_auc
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_914.json,914,cb8ea594-34b5-4386-9a23-ad0450103ba3,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8522943361346146,0.8400900900900901,0.8286436932251691,0.036694858531570354,0.8750125489281206
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_914.json,914,cb8ea594-34b5-4386-9a23-ad0450103ba3,69,More than 50 features,-0.8924188706350351,0.8811711711711712,0.8679208044768774,0.033315691332092855,0.9090457211567868
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_914.pkl,914,cb8ea594-34b5-4386-9a23-ad0450103ba3,4,['age' 'pT' 'pN_1_0' 'grade'],,0.9013963963963963,0.8948563375506142,0.03181332627075527,0.912378241611107
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_775.json,775,fb6d0e43-d380-456d-8da1-de80051bc014,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.859798097866052,0.823617136659436,0.8171370413939696,0.036163258432133874,0.8424786074899381
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_775.json,775,fb6d0e43-d380-456d-8da1-de80051bc014,69,More than 50 features,-0.8963614522240352,0.8693058568329718,0.8641676598853185,0.03232735383017063,0.879323020696541
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_775.pkl,775,fb6d0e43-d380-456d-8da1-de80051bc014,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8445860448300795,0.8342294756195132,0.03009721300178956,0.8664155320300464
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_460.json,460,a9e6a088-0428-45d8-95a4-a0c4346f76d8,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.844093237342365,0.8832222021985944,0.8678777414410987,0.03484101623069245,0.909026139597346
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_460.json,460,a9e6a088-0428-45d8-95a4-a0c4346f76d8,69,More than 50 features,-0.883424199513939,0.9020544242205802,0.8870150534399475,0.03009320749597263,0.9220676810382357
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_460.pkl,460,a9e6a088-0428-45d8-95a4-a0c4346f76d8,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8827716705712741,0.8668138798441472,0.026878913743387044,0.909179385070247
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_996.json,996,34b8ad91-41d0-428a-bb7f-b10f783787da,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8577036902934696,0.8144339197113216,0.8130442670520124,0.03738827332067486,0.8279871670085795
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_996.json,996,34b8ad91-41d0-428a-bb7f-b10f783787da,69,More than 50 features,-0.8980469527460677,0.84510599909788,0.8390085802188093,0.0364539378899089,0.8671508325345829
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_996.pkl,996,34b8ad91-41d0-428a-bb7f-b10f783787da,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8339197113216058,0.8253057066401671,0.03352688530625629,0.8545235220545435
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_975.json,975,e39c84cb-7ad4-4385-b68a-b563cac1320f,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8561663558451474,0.8078226619034533,0.7950025841839632,0.033581006607192154,0.8445907756889383
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_975.json,975,e39c84cb-7ad4-4385-b68a-b563cac1320f,69,More than 50 features,-0.8915269843102094,0.8734084455436475,0.8540345585208053,0.028490234221960703,0.9098283056871368
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_975.pkl,975,e39c84cb-7ad4-4385-b68a-b563cac1320f,4,['age' 'pT' 'pN_1_0' 'grade'],,0.89923971787121,0.8817086066281904,0.029241342462064265,0.9223072647315271
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_968.json,968,0866b4c9-4a9b-4d7b-acb3-0f1c48e2aab2,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.852850288490939,0.8140399814039981,0.8050366573072523,0.03273699077753607,0.8344459744608096
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_968.json,968,0866b4c9-4a9b-4d7b-acb3-0f1c48e2aab2,69,More than 50 features,-0.8922028943339866,0.8778242677824267,0.863766751066807,0.028123285442976577,0.894021132566341
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_968.pkl,968,0866b4c9-4a9b-4d7b-acb3-0f1c48e2aab2,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8663412366341237,0.8439296457651978,0.024476132853063756,0.8991543686766543
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_963.json,963,501e1fed-9c70-43ec-8279-cd030988f75a,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.859755457663403,0.7884427900381105,0.7643509044118151,0.035583795475575226,0.8320453878698131
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_963.json,963,501e1fed-9c70-43ec-8279-cd030988f75a,69,More than 50 features,-0.9121025115507386,0.8263759638394044,0.7938467514896953,0.031204205840012322,0.8807636286771162
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_963.pkl,963,501e1fed-9c70-43ec-8279-cd030988f75a,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8518124612248515,0.8354969142153391,0.03071454301150102,0.8847176119239689
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_932.json,932,647f93e8-97d6-46a3-915e-39a3277288a8,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8457315357050745,0.8653305522807654,0.8731307904455431,0.035258316747392465,0.8620919067875701
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_932.json,932,647f93e8-97d6-46a3-915e-39a3277288a8,69,More than 50 features,-0.8870777936935447,0.8925365013149542,0.8973755594446322,0.032160796310090736,0.8927984250590864
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_932.pkl,932,647f93e8-97d6-46a3-915e-39a3277288a8,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8552643511381155,0.8666872497139266,0.028887526309915045,0.84104237745747
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_885.json,885,0e4513c0-0c86-4dcf-a17e-db3368a3650f,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8781566903552879,0.7921753607103219,0.7796840386045678,0.035700148597884514,0.8221284863994438
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_885.json,885,0e4513c0-0c86-4dcf-a17e-db3368a3650f,69,More than 50 features,-0.8990088306626433,0.8530336662967074,0.8330205545824578,0.03268445885535776,0.8901097827562114
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_885.pkl,885,0e4513c0-0c86-4dcf-a17e-db3368a3650f,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8409637439881613,0.8109498831998541,0.030471895044355306,0.8933873333243909
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_826.json,826,2e293e25-71f7-49ca-8bf4-c9f88c68f468,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8537803857044481,0.8679858788554441,0.8571866673235496,0.03285510815378686,0.8873842725814065
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_826.json,826,2e293e25-71f7-49ca-8bf4-c9f88c68f468,69,More than 50 features,-0.8908580712395693,0.9109531772575251,0.8910099798728329,0.02910898592292276,0.938861719937018
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_826.pkl,826,2e293e25-71f7-49ca-8bf4-c9f88c68f468,4,['age' 'pT' 'pN_1_0' 'grade'],,0.9018952062430323,0.8815052572455659,0.026663467214780197,0.9335937566988091
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_818.json,818,49c226ce-b73e-4069-b15c-d4a4a0727f26,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8566572511725038,0.8265906255569417,0.8260409986220002,0.03715572036593381,0.8338473394542499
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_818.json,818,49c226ce-b73e-4069-b15c-d4a4a0727f26,69,More than 50 features,-0.8896600770930598,0.8805916948850472,0.8725628661180026,0.03286891919595987,0.8968061893904262
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_818.pkl,818,49c226ce-b73e-4069-b15c-d4a4a0727f26,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8918196399928712,0.8704760969482871,0.03023362912188658,0.9283379004085462
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_805.json,805,97ae86a0-d509-49c4-a949-e334f383a5f4,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8577292774501876,0.880003680868685,0.8686572438618042,0.03476257913457383,0.9050508268783153
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_805.json,805,97ae86a0-d509-49c4-a949-e334f383a5f4,69,More than 50 features,-0.8880831073124454,0.921137388423668,0.9078710894181374,0.02843894227008937,0.9454385944460011
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_805.pkl,805,97ae86a0-d509-49c4-a949-e334f383a5f4,4,['age' 'pT' 'pN_1_0' 'grade'],,0.9131775098923346,0.9006596623929768,0.02787770103472656,0.937686320121434
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_790.json,790,9546c57d-2da6-4573-95ad-b7c5f033491f,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8629303193937796,0.8165389815232087,0.8191922085841341,0.03828695141392265,0.8123671127768735
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_790.json,790,9546c57d-2da6-4573-95ad-b7c5f033491f,69,More than 50 features,-0.8940961507414068,0.8817485353762956,0.8792672634357187,0.032909507099665704,0.8772013390275055
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_790.pkl,790,9546c57d-2da6-4573-95ad-b7c5f033491f,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8755295178008112,0.8720072620734238,0.03318347010315744,0.8791801845877554
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_771.json,771,8d3c9d6e-d0e6-491a-a6ad-30a2917d8989,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8579067330492757,0.8221624902453828,0.8165061359827608,0.04062498403670571,0.8491866860276496
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_771.json,771,8d3c9d6e-d0e6-491a-a6ad-30a2917d8989,69,More than 50 features,-0.8872873469649509,0.8730599150264459,0.8600305413791494,0.037724632424800245,0.8999637511429983
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_771.pkl,771,8d3c9d6e-d0e6-491a-a6ad-30a2917d8989,4,['age' 'pT' 'pN_1_0' 'grade'],,0.909477152518859,0.903431574179163,0.028459103732907342,0.9196361091982381
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_755.json,755,51fae9d0-004f-4f26-b152-f4ead8e30fde,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8521700193700876,0.8824283490522846,0.8830880363141801,0.036145385408000205,0.8883377569949862
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_755.json,755,51fae9d0-004f-4f26-b152-f4ead8e30fde,69,More than 50 features,-0.887478721379685,0.9084332936544273,0.9133692258485869,0.031060714329040166,0.904594619478473
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_755.pkl,755,51fae9d0-004f-4f26-b152-f4ead8e30fde,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8940115374049995,0.8811807476794886,0.028606125869311733,0.9195802154222917
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_704.json,704,339ff3b3-5683-4b3b-8c36-8f377dee96a9,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8620943947192083,0.8354960800216275,0.8111937983259798,0.03457731782120606,0.8617374087596998
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_704.json,704,339ff3b3-5683-4b3b-8c36-8f377dee96a9,69,More than 50 features,-0.8917176727924412,0.8813643327025322,0.8499188423219035,0.030603057205231578,0.9241636265681941
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_704.pkl,704,339ff3b3-5683-4b3b-8c36-8f377dee96a9,4,['age' 'pT' 'pN_1_0' 'grade'],,0.9018203117959809,0.8673614806597062,0.025089157100516398,0.9495579822854358
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_697.json,697,95c2a180-58fc-4025-b6c1-d13e0287e979,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8490526813777051,0.8766952177016417,0.8776430627080282,0.0358604702613539,0.8924016854370095
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_697.json,697,95c2a180-58fc-4025-b6c1-d13e0287e979,69,More than 50 features,-0.8910522612714351,0.8973054960742327,0.895645286258586,0.03291832635059833,0.9148636595100788
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_697.pkl,697,95c2a180-58fc-4025-b6c1-d13e0287e979,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8848144182726624,0.8807504872237228,0.03066671564659251,0.9055753578776806
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_694.json,694,c67e46cb-b59a-4b24-931d-97c1f792cebf,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8552520906127109,0.838774577046182,0.8283619757650873,0.0360770126310749,0.8752784639095481
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_694.json,694,c67e46cb-b59a-4b24-931d-97c1f792cebf,69,More than 50 features,-0.8944952868513758,0.8293095564700503,0.82055995489236,0.03176558273552169,0.8597578832289281
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_694.pkl,694,c67e46cb-b59a-4b24-931d-97c1f792cebf,4,['age' 'pT' 'pN_1_0' 'grade'],,0.9081390032007316,0.908296105737217,0.030615762409891254,0.9161188454759746
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_667.json,667,c910c6bd-bf28-40ac-806d-9fabd117b528,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8672203986343211,0.8178009496322503,0.8289047184475341,0.03631822643580865,0.8155369305974094
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_667.json,667,c910c6bd-bf28-40ac-806d-9fabd117b528,69,More than 50 features,-0.8953134072466901,0.8767340098687273,0.8813655905889249,0.03290535426400158,0.8833621786110984
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_667.pkl,667,c910c6bd-bf28-40ac-806d-9fabd117b528,4,['age' 'pT' 'pN_1_0' 'grade'],,0.881575272321013,0.8803987778145019,0.031300688230677116,0.8971556653323475
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_619.json,619,619b2812-9ea6-431a-82dc-3e61c048473c,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8650592073967006,0.8058139534883721,0.7912096169738738,0.03801051535816396,0.8382773713697111
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_619.json,619,619b2812-9ea6-431a-82dc-3e61c048473c,69,More than 50 features,-0.8874089160880642,0.8854203935599284,0.8800204099820537,0.03500847718113231,0.8973824054554053
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_619.pkl,619,619b2812-9ea6-431a-82dc-3e61c048473c,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8991055456171735,0.8858617100318905,0.032704320847474856,0.9248619424168661
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_597.json,597,20a317fd-bf9d-4f6a-ac57-165d0de84210,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8379985886463815,0.8777838627236217,0.8736847777493736,0.03334349751107563,0.8969626251440709
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_597.json,597,20a317fd-bf9d-4f6a-ac57-165d0de84210,69,More than 50 features,-0.8860841816688229,0.8872763782402336,0.8810048746314786,0.030647399271519975,0.9077368255976807
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_597.pkl,597,20a317fd-bf9d-4f6a-ac57-165d0de84210,4,['age' 'pT' 'pN_1_0' 'grade'],,0.9180357794815626,0.9142795710014391,0.028388522008887952,0.9328429606766881
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_592.json,592,d423209a-d070-4931-a5d9-3bd6e183560b,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8428251931997345,0.8320355441553683,0.8402249881643916,0.03501283738745358,0.8327390208320044
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_592.json,592,d423209a-d070-4931-a5d9-3bd6e183560b,69,More than 50 features,-0.8987446753465509,0.8914437522902162,0.8909550564290108,0.031747789514969635,0.9042109443391908
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_592.pkl,592,d423209a-d070-4931-a5d9-3bd6e183560b,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8957035544155368,0.8955006310246034,0.031726898506442267,0.9056365639648497
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_586.json,586,92f3a722-3a28-4455-bcdb-602d8da6b26f,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8670744089363115,0.8274766185417234,0.8165637742911795,0.036938437016498175,0.8596369152534631
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_586.json,586,92f3a722-3a28-4455-bcdb-602d8da6b26f,69,More than 50 features,-0.8976641740800592,0.8651593571233996,0.8502002495661931,0.03347722244583218,0.8900256516260708
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_586.pkl,586,92f3a722-3a28-4455-bcdb-602d8da6b26f,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8219377099791156,0.7930467994356577,0.03176338607960671,0.8683015655361761
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_554.json,554,03f9972d-1dff-4241-9452-38439253d721,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8674858794398521,0.8035581912527798,0.7884202935457063,0.034268280867499334,0.8142940828934602
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_554.json,554,03f9972d-1dff-4241-9452-38439253d721,69,More than 50 features,-0.8998704914236961,0.8506300963676797,0.8390274978844543,0.032268440532318816,0.862271819978678
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_554.pkl,554,03f9972d-1dff-4241-9452-38439253d721,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8504447739065975,0.8219005154168546,0.030531139170989482,0.8884358355452598
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_551.json,551,f7a00b22-2adf-487c-bc5e-8991d4e313a4,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8460753164471649,0.8646374216651745,0.863811843111755,0.03462333400737777,0.8790160145801613
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_551.json,551,f7a00b22-2adf-487c-bc5e-8991d4e313a4,69,More than 50 features,-0.8843048223896941,0.9251566696508505,0.926209504645922,0.029743425044671194,0.9303493590856509
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_551.pkl,551,f7a00b22-2adf-487c-bc5e-8991d4e313a4,4,['age' 'pT' 'pN_1_0' 'grade'],,0.862354521038496,0.8711072535137276,0.029702260213927186,0.8563402502637961
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_539.json,539,e46dfa55-a8d8-42d0-8780-cb94dc3d1205,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8523334536094461,0.872419597767343,0.8634679668739562,0.036229922348454874,0.9033500196438716
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_539.json,539,e46dfa55-a8d8-42d0-8780-cb94dc3d1205,69,More than 50 features,-0.8935573897347441,0.9020111632851954,0.8915406472935848,0.03263882192543363,0.9320552679442605
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_539.pkl,539,e46dfa55-a8d8-42d0-8780-cb94dc3d1205,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8846017542305307,0.8750175390097084,0.03207849516336674,0.9155232200207608
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_535.json,535,4e1db035-d760-49d4-9ca9-4e2431ef2b6b,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8529611406083839,0.8011858772796694,0.7958505644576948,0.03722374894227633,0.7901769233173209
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_535.json,535,4e1db035-d760-49d4-9ca9-4e2431ef2b6b,69,More than 50 features,-0.8880021919346953,0.891114904321265,0.881344287836994,0.033726569519552406,0.9015006895280461
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_535.pkl,535,4e1db035-d760-49d4-9ca9-4e2431ef2b6b,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8518551792291797,0.8318471484859047,0.03144174883218551,0.8847593902905408
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_533.json,533,ae504442-5266-486c-b36a-f1aae4a9f3c4,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8604159926675781,0.8328858439033423,0.8422595512887635,0.03575627172313868,0.8184380277127711
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_533.json,533,ae504442-5266-486c-b36a-f1aae4a9f3c4,69,More than 50 features,-0.9065861593326886,0.8535320803629294,0.8592167684975291,0.032256376512827006,0.8400871794969177
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_533.pkl,533,ae504442-5266-486c-b36a-f1aae4a9f3c4,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8307101194333858,0.8293793582688307,0.032836366849184034,0.8296479238047638
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_462.json,462,b74796a2-e545-4ca1-9395-c8c5ecfb4cb5,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8407456790442108,0.8751334044823906,0.8721954128691571,0.03685530781310009,0.8914358072258831
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_462.json,462,b74796a2-e545-4ca1-9395-c8c5ecfb4cb5,69,More than 50 features,-0.8875166226067771,0.8953219494841693,0.892117253720418,0.03314937602768928,0.9113128022872758
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_462.pkl,462,b74796a2-e545-4ca1-9395-c8c5ecfb4cb5,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8461401636428317,0.8435237672174853,0.03194963569392426,0.8559930428906941
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_457.json,457,c7452a22-e6be-4bf0-af02-9f73c6ec6400,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8661776858405149,0.8007196235815112,0.7740165657511764,0.03453393996865095,0.848459223877463
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_457.json,457,c7452a22-e6be-4bf0-af02-9f73c6ec6400,69,More than 50 features,-0.9095883503971172,0.826967432419965,0.8004588631206706,0.031349878891710856,0.8731469584178034
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_457.pkl,457,c7452a22-e6be-4bf0-af02-9f73c6ec6400,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8074545622289879,0.7678471829481689,0.0335258703707105,0.8631423907130857
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_433.json,433,cdc9ba29-10f6-48b0-a8e1-11e0cdbbf996,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8737606904492216,0.7984848484848485,0.8000425155676654,0.033261040039474964,0.7804858740433068
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_433.json,433,cdc9ba29-10f6-48b0-a8e1-11e0cdbbf996,69,More than 50 features,-0.8894258854018476,0.8791666666666667,0.8760086181370714,0.03032028409061705,0.8824474559830847
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_433.pkl,433,cdc9ba29-10f6-48b0-a8e1-11e0cdbbf996,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8776041666666666,0.8706434306177115,0.02889136184571367,0.8906927158279125
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_395.json,395,6576a616-3e22-4aea-a378-434912551387,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8397193554700673,0.8869772366331392,0.884651111176969,0.037009937587750015,0.8964832898301635
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_395.json,395,6576a616-3e22-4aea-a378-434912551387,69,More than 50 features,-0.8849965330210308,0.8996823716251985,0.8943639642467788,0.032770040827453946,0.9130427340204734
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_395.pkl,395,6576a616-3e22-4aea-a378-434912551387,4,['age' 'pT' 'pN_1_0' 'grade'],,0.9088141874007412,0.8970397825539613,0.031109231697422246,0.9374986197555353
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_394.json,394,2b4e6dbd-0a5b-4d24-b11c-82a2e563dda8,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8638060709128592,0.8518722466960352,0.840634899983801,0.034376270725711734,0.8763605649150967
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_394.json,394,2b4e6dbd-0a5b-4d24-b11c-82a2e563dda8,69,More than 50 features,-0.8966528604243849,0.8873898678414097,0.8777566055939967,0.030130449498007927,0.9073574004385243
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_394.pkl,394,2b4e6dbd-0a5b-4d24-b11c-82a2e563dda8,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8772026431718062,0.8673620674469873,0.0267867647104632,0.9023673353797911
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_391.json,391,63873b8c-7e76-4c11-90ea-78e98d91a6ad,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8535629059021608,0.8704808050689526,0.8700590415045544,0.03249923388456824,0.8926045406904889
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_391.json,391,63873b8c-7e76-4c11-90ea-78e98d91a6ad,69,More than 50 features,-0.8857227541187248,0.8910734252702199,0.894265647233574,0.030398120809941823,0.9055662312509549
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_391.pkl,391,63873b8c-7e76-4c11-90ea-78e98d91a6ad,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8983414088706672,0.8994100450796839,0.0314438923336696,0.9185308017169872
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_376.json,376,884c0a0e-593f-4af8-855c-2fe8d2b32f43,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8611512247630081,0.8030410812733416,0.791731867175689,0.03995764418576114,0.8448847708792643
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_376.json,376,884c0a0e-593f-4af8-855c-2fe8d2b32f43,69,More than 50 features,-0.9063942830512882,0.8242041614796372,0.8123982168206976,0.03792434788044005,0.8719518100400062
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_376.pkl,376,884c0a0e-593f-4af8-855c-2fe8d2b32f43,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8168682198114885,0.8120782896444116,0.03654132242964807,0.8383021684808573
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_367.json,367,0f6f6ca5-ab20-49d6-aeee-a156e3fa196f,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.846215528819101,0.8668177697189483,0.8606686034716737,0.0322559593937826,0.886417605810134
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_367.json,367,0f6f6ca5-ab20-49d6-aeee-a156e3fa196f,69,More than 50 features,-0.8845995326219441,0.9017225747960109,0.8980613699717008,0.030806046803685514,0.9097872067693538
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_367.pkl,367,0f6f6ca5-ab20-49d6-aeee-a156e3fa196f,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8540344514959202,0.8608001016438425,0.0328151111070657,0.8454150731791006
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_342.json,342,69c4fb2e-a92a-44c4-9f46-2230fe28ee10,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.858361209648826,0.8701726285815982,0.8643565332471417,0.03744762254586788,0.8814997504911671
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_342.json,342,69c4fb2e-a92a-44c4-9f46-2230fe28ee10,69,More than 50 features,-0.8846528643406808,0.9128848549563979,0.9085064368754507,0.034261072461700966,0.9204085076201174
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_342.pkl,342,69c4fb2e-a92a-44c4-9f46-2230fe28ee10,4,['age' 'pT' 'pN_1_0' 'grade'],,0.9143085958355579,0.91261916433457,0.032236421666379994,0.9237199856186996
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_269.json,269,a3943ec1-994f-4cba-b4d0-256349097bd2,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8476876016715528,0.9043792325056433,0.8951431765164278,0.03363423565089191,0.9318788437482699
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_269.json,269,a3943ec1-994f-4cba-b4d0-256349097bd2,69,More than 50 features,-0.8836441937415875,0.931647855530474,0.9269032822399015,0.027865087730548608,0.9478101177778375
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_269.pkl,269,a3943ec1-994f-4cba-b4d0-256349097bd2,4,['age' 'pT' 'pN_1_0' 'grade'],,0.9306546275395033,0.9217254121377485,0.025534534370098547,0.9566215286707946
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_237.json,237,0bab9d64-2968-4d60-8aac-cb04be6f22c7,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8472849811760647,0.8813011052205948,0.8804503326462839,0.03673359136260445,0.8928063782087677
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_237.json,237,0bab9d64-2968-4d60-8aac-cb04be6f22c7,69,More than 50 features,-0.8874067906916243,0.9055620451073771,0.9086626113956732,0.0344377631023077,0.9099189184486943
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_237.pkl,237,0bab9d64-2968-4d60-8aac-cb04be6f22c7,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8855692335340103,0.8886151833754034,0.03425861993499622,0.8908957094443384
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_217.json,217,1c93aaa3-493b-47be-bdfa-ea98aa25ec02,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8475584582021313,0.8670467915648475,0.8523151247341019,0.033034161565848166,0.896664423273962
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_217.json,217,1c93aaa3-493b-47be-bdfa-ea98aa25ec02,69,More than 50 features,-0.8895884996165531,0.9074124355145262,0.8921505215455984,0.029867105980664485,0.9307133341643891
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_217.pkl,217,1c93aaa3-493b-47be-bdfa-ea98aa25ec02,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8753733369535704,0.86216692580688,0.02703671766589031,0.8967639769775259
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_209.json,209,ece5a0f0-ba09-49a1-bd7b-f6d1b6af8d6e,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8512609033727816,0.8823582196697775,0.8820682471336084,0.034767089996611156,0.8891669217243547
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_209.json,209,ece5a0f0-ba09-49a1-bd7b-f6d1b6af8d6e,69,More than 50 features,-0.8896210551443067,0.8861719310839914,0.8845920029934311,0.03377488950366385,0.8923074204841598
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_209.pkl,209,ece5a0f0-ba09-49a1-bd7b-f6d1b6af8d6e,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8717695620961953,0.8545317374200707,0.028799089435676394,0.9086645363237552
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_207.json,207,d154021c-d3fd-4ff3-8c0f-787f1040133f,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8449275106218316,0.8770687752850312,0.8701456109782345,0.033745767658627315,0.8940626610804979
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_207.json,207,d154021c-d3fd-4ff3-8c0f-787f1040133f,69,More than 50 features,-0.8825492155845269,0.9184902537697683,0.9163193957271102,0.02809280295392913,0.9287031100199027
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_207.pkl,207,d154021c-d3fd-4ff3-8c0f-787f1040133f,4,['age' 'pT' 'pN_1_0' 'grade'],,0.909341669731519,0.9045358192930445,0.026316406784762655,0.9246991233019738
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_200.json,200,83ce9a10-95db-45ce-91f2-c6f58770d3d2,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8628467102711722,0.8049910873440285,0.7905737694447769,0.037971251048729004,0.8331878830963598
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_200.json,200,83ce9a10-95db-45ce-91f2-c6f58770d3d2,69,More than 50 features,-0.9024345048333915,0.8434046345811052,0.8295674263898268,0.03516446111358976,0.8724608699258872
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_200.pkl,200,83ce9a10-95db-45ce-91f2-c6f58770d3d2,4,['age' 'pT' 'pN_1_0' 'grade'],,0.7988413547237077,0.785933010594853,0.03368421814560244,0.8294326531791846
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_178.json,178,11c94a45-5b06-4689-967d-3125e33e887a,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8578983632384979,0.836959619952494,0.8250687766951115,0.03035839226850875,0.8566381636173275
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_178.json,178,11c94a45-5b06-4689-967d-3125e33e887a,69,More than 50 features,-0.8921376105387815,0.8945368171021377,0.8810488203948448,0.02717586818078057,0.9109805764726661
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_178.pkl,178,11c94a45-5b06-4689-967d-3125e33e887a,4,['age' 'pT' 'pN_1_0' 'grade'],,0.86270783847981,0.8566875662557808,0.028187111788510924,0.8666202347643045
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_166.json,166,f5187627-7e92-4367-9af0-4712f500d9b6,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8625190676665035,0.8086543728318423,0.7720124693751145,0.03506728539007899,0.8678183731325566
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_166.json,166,f5187627-7e92-4367-9af0-4712f500d9b6,69,More than 50 features,-0.9030135577762731,0.8542085083074676,0.8227809513807787,0.031829560605163655,0.8965936309690138
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_166.pkl,166,f5187627-7e92-4367-9af0-4712f500d9b6,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8107540624429432,0.7943348511415512,0.03308906763652682,0.8342441924101519
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_160.json,160,7f3060fa-de51-491a-8449-6efc537d9bbe,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8522246253246728,0.8738427008323202,0.8552314668731125,0.030502581266124162,0.9045752948377357
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_160.json,160,7f3060fa-de51-491a-8449-6efc537d9bbe,69,More than 50 features,-0.8875590602205609,0.910923033760404,0.8879984027902518,0.026386558657098606,0.9404711590689689
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_160.pkl,160,7f3060fa-de51-491a-8449-6efc537d9bbe,4,['age' 'pT' 'pN_1_0' 'grade'],,0.884737678855326,0.8572461093537207,0.024910570879421334,0.9196010179343547
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_136.json,136,776afc65-7d4b-4dbf-a832-343f16c54d9b,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8480558422429793,0.8666846215997845,0.8681728956100406,0.03675831324825878,0.8680645505010209
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_136.json,136,776afc65-7d4b-4dbf-a832-343f16c54d9b,69,More than 50 features,-0.8866823849519017,0.8980159798904749,0.8990568877182105,0.032765098756873556,0.9061845606730773
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_136.pkl,136,776afc65-7d4b-4dbf-a832-343f16c54d9b,4,['age' 'pT' 'pN_1_0' 'grade'],,0.9027291498339168,0.8971190413244506,0.032310723598664465,0.9224490962030748
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_129.json,129,819da929-a7b6-4628-940d-3ec7b33533a2,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.843754872733998,0.8682565201857806,0.8600847974233934,0.03559709171313767,0.8860392391804532
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_129.json,129,819da929-a7b6-4628-940d-3ec7b33533a2,69,More than 50 features,-0.8925816429106905,0.8672740264380135,0.8593473234314043,0.03403985036985814,0.8753792848998004
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_129.pkl,129,819da929-a7b6-4628-940d-3ec7b33533a2,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8327974276527331,0.8270994855227137,0.03439604133451654,0.8414964462008852
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_90.json,90,fdd913c3-21df-4696-941d-356ee11d03ae,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.843609601747859,0.8799109131403118,0.8678631048790875,0.03468721223652943,0.8999758463840036
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_90.json,90,fdd913c3-21df-4696-941d-356ee11d03ae,69,More than 50 features,-0.8893834903309795,0.9088641425389755,0.8941164742024448,0.03101252277062907,0.9295114503319587
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_90.pkl,90,fdd913c3-21df-4696-941d-356ee11d03ae,4,['age' 'pT' 'pN_1_0' 'grade'],,0.9115367483296214,0.8984361557812957,0.03315816671329731,0.9348955844921867
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_40.json,40,ab2bf505-9be9-4bf3-9183-842213675c30,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8449354152420436,0.8532023427167957,0.835499973729175,0.03139733877392667,0.8886600301406338
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_40.json,40,ab2bf505-9be9-4bf3-9183-842213675c30,69,More than 50 features,-0.8939561982776194,0.8883430946533157,0.8694442156997274,0.028594345721794198,0.921634439603034
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_40.pkl,40,ab2bf505-9be9-4bf3-9183-842213675c30,4,['age' 'pT' 'pN_1_0' 'grade'],,0.830672586434914,0.8036910372811298,0.028760929209764294,0.8823909667097122
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_8.json,8,f4d4a870-7dce-4b02-bb15-13765bdb9b9f,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8579743970766547,0.8357232220190549,0.8303067467672828,0.03272317284964675,0.8618761721980824
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_8.json,8,f4d4a870-7dce-4b02-bb15-13765bdb9b9f,69,More than 50 features,-0.8868365715302048,0.902704263304783,0.8955945276520267,0.03072551040095308,0.9241135684216909
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_8.pkl,8,f4d4a870-7dce-4b02-bb15-13765bdb9b9f,4,['age' 'pT' 'pN_1_0' 'grade'],,0.9212780290636128,0.9122324888635708,0.026892908623232206,0.9444683975853219
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_1.json,1,f9afda6e-223e-4242-894a-b95b59f90ec4,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8755343855368878,0.8181499342393687,0.7961856223719498,0.038007281481155425,0.8653304930836205
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_1.json,1,f9afda6e-223e-4242-894a-b95b59f90ec4,69,More than 50 features,-0.9044623100839484,0.8514686540990793,0.8218467674324346,0.03405358611987371,0.894419543474464
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_1.pkl,1,f9afda6e-223e-4242-894a-b95b59f90ec4,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8883384480491012,0.8648623854022507,0.03036156944344836,0.9225618614900077
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_890.json,890,fd9c0488-c477-45fb-b046-263960e9c5d7,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8650619879467145,0.7893220491581885,0.7809632320597315,0.04047846908374226,0.8237023185771765
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_890.json,890,fd9c0488-c477-45fb-b046-263960e9c5d7,69,More than 50 features,-0.9063489588683902,0.8170523093544612,0.8088681724881588,0.037140870413891455,0.84354589273139
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_890.pkl,890,fd9c0488-c477-45fb-b046-263960e9c5d7,4,['age' 'pT' 'pN_1_0' 'grade'],,0.7848654001980733,0.785234308351283,0.037147219393523154,0.7949694683012328
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_828.json,828,c778241e-49bc-4dbe-8be7-69c859958b77,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8400326949638796,0.8655714538067479,0.8371819265092495,0.03442356473026078,0.9065279075674497
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_828.json,828,c778241e-49bc-4dbe-8be7-69c859958b77,69,More than 50 features,-0.8833057042238452,0.9195371842430666,0.8936747077748344,0.02921031294123499,0.9530986871971844
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_828.pkl,828,c778241e-49bc-4dbe-8be7-69c859958b77,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8915385974209503,0.8556521065320041,0.025805270813046847,0.9426185114193547
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_825.json,825,dfa59d2a-a5f3-4231-8037-3101694137a5,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8559319254929545,0.8124072700296736,0.8160659213398356,0.0355250993260629,0.8310285387261906
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_825.json,825,dfa59d2a-a5f3-4231-8037-3101694137a5,69,More than 50 features,-0.9056350228876486,0.8298868694362018,0.8352479675187474,0.033578192515780356,0.8441696261245923
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_825.pkl,825,dfa59d2a-a5f3-4231-8037-3101694137a5,4,['age' 'pT' 'pN_1_0' 'grade'],,0.802531528189911,0.8084575442876208,0.03456292441820124,0.8108186824493991
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_759.json,759,3de9e325-b686-4a02-b8b2-7c1473c54d8c,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8648427071823781,0.8053967119370979,0.7797427950122565,0.03651206363787788,0.8411405523122777
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_759.json,759,3de9e325-b686-4a02-b8b2-7c1473c54d8c,69,More than 50 features,-0.8964473409211852,0.8467208720514653,0.817601709701145,0.033196247574658486,0.8890732192027863
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_759.pkl,759,3de9e325-b686-4a02-b8b2-7c1473c54d8c,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8507862759113652,0.8116412513068993,0.028898233347503192,0.9100163736777629
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_758.json,758,419d32b8-7ccd-4055-820a-f772adfe03fe,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8647695932634907,0.8447685935530344,0.8322641492426429,0.03736846650473929,0.8769568985136178
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_758.json,758,419d32b8-7ccd-4055-820a-f772adfe03fe,69,More than 50 features,-0.8952555228371806,0.8750225103547632,0.8714955040051006,0.03327281553861258,0.893547063172851
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_758.pkl,758,419d32b8-7ccd-4055-820a-f772adfe03fe,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8864127498649379,0.8843522801205294,0.0318558437975538,0.9038417991815639
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_754.json,754,b2396ed1-2093-4fa9-ad92-54772cd27109,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.859261455889136,0.8352216527290711,0.8309086834674517,0.03647536064213126,0.8637973470427989
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_754.json,754,b2396ed1-2093-4fa9-ad92-54772cd27109,69,More than 50 features,-0.8929736007110186,0.8823397176512904,0.8821777865095355,0.03431929962854993,0.9040167730185713
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_754.pkl,754,b2396ed1-2093-4fa9-ad92-54772cd27109,4,['age' 'pT' 'pN_1_0' 'grade'],,0.896906752989839,0.8934400228250445,0.033452773865550234,0.9203826805469196
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_734.json,734,0941f7e8-f681-471c-8276-7cb2cf5a9ef6,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.847504500098276,0.8566594604756086,0.8520843236284523,0.0313929656650701,0.8760139315996774
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_734.json,734,0941f7e8-f681-471c-8276-7cb2cf5a9ef6,69,More than 50 features,-0.892384954149092,0.8715104803082997,0.863607925240096,0.028478972865747968,0.8935085421041014
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_734.pkl,734,0941f7e8-f681-471c-8276-7cb2cf5a9ef6,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8443932700441771,0.8279490039652653,0.02716221214660066,0.875651308962525
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_733.json,733,4000e1f7-32d8-4cbf-99b7-c5a4c621d77b,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8618053902232903,0.8076715774344233,0.7863531672428292,0.03754846843732803,0.8579867567028084
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_733.json,733,4000e1f7-32d8-4cbf-99b7-c5a4c621d77b,69,More than 50 features,-0.8993049253505303,0.8616600790513834,0.8356298105404135,0.03371827717814447,0.9013070212356401
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_733.pkl,733,4000e1f7-32d8-4cbf-99b7-c5a4c621d77b,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8528566295364715,0.8263614905557968,0.029054689259013743,0.8919290699646978
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_718.json,718,5dc6f89f-9c89-4aae-97f0-c5c980d65406,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8580185274491698,0.8100914887718326,0.8127137772408044,0.03517640585775976,0.8138768111191828
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_718.json,718,5dc6f89f-9c89-4aae-97f0-c5c980d65406,69,More than 50 features,-0.8929093620675508,0.8883652157841234,0.8908441573095077,0.030139566160564426,0.8970060275190419
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_718.pkl,718,5dc6f89f-9c89-4aae-97f0-c5c980d65406,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8501062748359671,0.8415040763896814,0.028896741639103808,0.8747916148032802
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_692.json,692,595b4694-2caf-4c3c-b54d-a9a0d6324583,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8589043572924234,0.8669703872437358,0.8482288165584799,0.0353425913328839,0.899979815687103
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_692.json,692,595b4694-2caf-4c3c-b54d-a9a0d6324583,69,More than 50 features,-0.8908941536578621,0.8828246013667426,0.8610104159974041,0.03219086270564628,0.9228906133334857
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_692.pkl,692,595b4694-2caf-4c3c-b54d-a9a0d6324583,4,['age' 'pT' 'pN_1_0' 'grade'],,0.9164920273348519,0.9003989929211911,0.028284530231979795,0.9412752191702972
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_665.json,665,73391a0a-b576-44b8-be3b-5fda8257dd82,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8569724709990931,0.8627397756062252,0.8683024907437532,0.03484700005954707,0.8466214550313867
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_665.json,665,73391a0a-b576-44b8-be3b-5fda8257dd82,69,More than 50 features,-0.8901386837876177,0.9002895403546869,0.9054416967072627,0.03134695345479646,0.8981708464889102
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_665.pkl,665,73391a0a-b576-44b8-be3b-5fda8257dd82,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8705211726384365,0.8765452676416505,0.03018067770434523,0.8661896548916372
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_654.json,654,403da2e3-c288-4b5f-882d-1b356ec1e9ba,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.867824815226998,0.7969060973403292,0.7983792906508895,0.036824235468195764,0.8089200348114052
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_654.json,654,403da2e3-c288-4b5f-882d-1b356ec1e9ba,69,More than 50 features,-0.8924380198151883,0.8687352994391171,0.8621159602170814,0.032725104552763354,0.8861996942551562
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_654.pkl,654,403da2e3-c288-4b5f-882d-1b356ec1e9ba,4,['age' 'pT' 'pN_1_0' 'grade'],,0.862990772571015,0.8511033635875984,0.03113983780539834,0.889716537667214
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_616.json,616,2605f44d-e9bd-4799-9e07-8fce1a542bdd,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8589322153091347,0.8207853817095669,0.825756989510879,0.0379198903704751,0.8073863584007854
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_616.json,616,2605f44d-e9bd-4799-9e07-8fce1a542bdd,69,More than 50 features,-0.8857273948045323,0.9117104454010366,0.906010215081156,0.03397911491905792,0.9219560334431991
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_616.pkl,616,2605f44d-e9bd-4799-9e07-8fce1a542bdd,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8897039444786085,0.8686598738589537,0.029926020041072594,0.9276432452035299
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_604.json,604,00849142-a8c9-4f9f-b46a-8182900a0f26,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8443595267414856,0.8820085166784953,0.880339187612152,0.03746143433320752,0.8920179213792195
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_604.json,604,00849142-a8c9-4f9f-b46a-8182900a0f26,69,More than 50 features,-0.8858207903976945,0.893097941802697,0.8851076573363551,0.03377001561824021,0.9048799612699319
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_604.pkl,604,00849142-a8c9-4f9f-b46a-8182900a0f26,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8722054648687012,0.8614134063997609,0.03048944386657614,0.8917267792256016
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_603.json,603,aea53b88-7814-46c8-879a-8e2f9e68a4ea,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8605535653891035,0.8497613030047739,0.8364170069428969,0.031905060799241804,0.8868704750959104
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_603.json,603,aea53b88-7814-46c8-879a-8e2f9e68a4ea,69,More than 50 features,-0.8853279071684643,0.8910418421791632,0.8814024851618482,0.028640419923885895,0.9186756858431181
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_603.pkl,603,aea53b88-7814-46c8-879a-8e2f9e68a4ea,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8945988954413554,0.8816392131039402,0.027998447073626323,0.9259890920504265
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_574.json,574,29e1ea26-facc-40b0-9708-b47b23c5949e,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8691920600136338,0.8154730327144121,0.8174239856792646,0.03827950202105086,0.8250849892687238
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_574.json,574,29e1ea26-facc-40b0-9708-b47b23c5949e,69,More than 50 features,-0.8944284852140756,0.8579133510167993,0.863734337662538,0.03628994494954563,0.8545140294904355
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_574.pkl,574,29e1ea26-facc-40b0-9708-b47b23c5949e,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8751547303271441,0.8792851850192337,0.03195469055963748,0.88835009611073
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_558.json,558,c39e7e09-0527-4b79-bc94-5953259a4921,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8530647564375851,0.8633173254525305,0.8594010483069003,0.033399568644518776,0.8821261914656754
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_558.json,558,c39e7e09-0527-4b79-bc94-5953259a4921,69,More than 50 features,-0.8903839737690044,0.888899150350942,0.8896884476032955,0.031519753415925084,0.8940349840963054
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_558.pkl,558,c39e7e09-0527-4b79-bc94-5953259a4921,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8109530845954932,0.8089666421798171,0.034816422876324984,0.8199871709106422
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_517.json,517,1cfcb69a-287f-46fc-8a9d-e5af0d8be98e,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8603170985618211,0.8404303204897371,0.8400189610940245,0.035810976743543596,0.8581633745696294
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_517.json,517,1cfcb69a-287f-46fc-8a9d-e5af0d8be98e,69,More than 50 features,-0.8938494665065067,0.8704537270435722,0.871274389950113,0.03364402421015957,0.8862288708859676
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_517.pkl,517,1cfcb69a-287f-46fc-8a9d-e5af0d8be98e,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8497029168167087,0.8427854297192052,0.03408925369388786,0.8838709874685072
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_459.json,459,b5708215-d628-4f50-8a19-20d38e347cde,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8645864371225706,0.7923709662840097,0.7856277116927269,0.035204736879364686,0.8038117424291231
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_459.json,459,b5708215-d628-4f50-8a19-20d38e347cde,69,More than 50 features,-0.9004147693139275,0.8345837476272259,0.8256317207139507,0.03327745604117222,0.84460396370828
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_459.pkl,459,b5708215-d628-4f50-8a19-20d38e347cde,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8501762632197415,0.8339607685123638,0.03246274216267616,0.8767289967228301
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_432.json,432,863c84da-8d9a-4e3b-8bd1-c2feea8051fe,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8541399723700493,0.8634419842250309,0.8588009492639262,0.031086824616570884,0.8784029025757317
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_432.json,432,863c84da-8d9a-4e3b-8bd1-c2feea8051fe,69,More than 50 features,-0.8982383003788902,0.8413950394374228,0.8295125702958385,0.032531308792304495,0.860114980882476
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_432.pkl,432,863c84da-8d9a-4e3b-8bd1-c2feea8051fe,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8472868953720422,0.8312174337758268,0.033127524501808024,0.8753959225887473
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_429.json,429,da055178-1177-4aed-8a33-b1578cf63d42,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8753671997676081,0.7611580217129071,0.7562945665657822,0.04170242000490558,0.7947215529474919
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_429.json,429,da055178-1177-4aed-8a33-b1578cf63d42,69,More than 50 features,-0.908453292546705,0.8076425986558676,0.796707219828843,0.03671312517253518,0.8413731095390302
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_429.pkl,429,da055178-1177-4aed-8a33-b1578cf63d42,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8395657418576599,0.8291744104398149,0.034216757917383274,0.8677356178429962
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_379.json,379,4a9c16ff-2e24-43a2-9052-1c204574e4a0,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8534233470345034,0.8465023559260602,0.8401630659332981,0.03471449304826325,0.86337206797438
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_379.json,379,4a9c16ff-2e24-43a2-9052-1c204574e4a0,69,More than 50 features,-0.8929903322997964,0.9007792678506705,0.8925713376460306,0.032417602368793604,0.9151459758717868
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_379.pkl,379,4a9c16ff-2e24-43a2-9052-1c204574e4a0,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8721910112359551,0.8610301151672282,0.03339513323852946,0.8933113636814988
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_284.json,284,996b7e12-1d4e-4663-a2fe-543f4f04f4eb,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8608155918440547,0.8121610048529831,0.8080968063006744,0.032793790290108316,0.8301656721222971
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_284.json,284,996b7e12-1d4e-4663-a2fe-543f4f04f4eb,69,More than 50 features,-0.8895048576320473,0.872775716052907,0.8676960038861882,0.028741955558492436,0.8930345549793854
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_284.pkl,284,996b7e12-1d4e-4663-a2fe-543f4f04f4eb,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8626415453420877,0.8479171272363982,0.028446897747653053,0.8928526617186077
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_281.json,281,27364443-6e39-42f4-bf07-097054d2d45d,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8618277867814695,0.8454336851766866,0.8451557426569185,0.034308701495726616,0.8451523752817238
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_281.json,281,27364443-6e39-42f4-bf07-097054d2d45d,69,More than 50 features,-0.8996909866974686,0.8338687471317118,0.8344687186640727,0.03294980973208688,0.8287961650022077
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_281.pkl,281,27364443-6e39-42f4-bf07-097054d2d45d,4,['age' 'pT' 'pN_1_0' 'grade'],,0.7781551170261588,0.7702469823286151,0.03067970974385643,0.7909293063149644
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_255.json,255,ffe7780c-b5cd-4070-8c4f-f619f2bf6977,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8580680713049154,0.84538240167437,0.8295537011070327,0.037543224183253836,0.8885210077308088
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_255.json,255,ffe7780c-b5cd-4070-8c4f-f619f2bf6977,69,More than 50 features,-0.8882660156392447,0.8894218191331648,0.8630474056413582,0.03365958153016409,0.9379282893586331
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_255.pkl,255,ffe7780c-b5cd-4070-8c4f-f619f2bf6977,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8909479375599546,0.8686676298645463,0.030805237564699828,0.9307392797743327
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_250.json,250,58166465-64b5-4e23-9f4a-ab6254e8ca90,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8545604087308216,0.8918021011044267,0.8899957387344044,0.033994815136400944,0.9008644818542918
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_250.json,250,58166465-64b5-4e23-9f4a-ab6254e8ca90,69,More than 50 features,-0.8825177799014936,0.9183801741941277,0.9174638015547321,0.031741922860802234,0.9275005462739497
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_250.pkl,250,58166465-64b5-4e23-9f4a-ab6254e8ca90,4,['age' 'pT' 'pN_1_0' 'grade'],,0.926596031247194,0.9226047913937456,0.029328447407474666,0.9440701888122541
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_238.json,238,78915cc8-c285-4a47-92f5-9a35a81e1b40,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8446620220461739,0.8906826568265682,0.8929153497174694,0.03392935597648354,0.9021094236137505
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_238.json,238,78915cc8-c285-4a47-92f5-9a35a81e1b40,69,More than 50 features,-0.885527918703259,0.9165129151291513,0.9172234588419436,0.03134708330449851,0.9272193161420615
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_238.pkl,238,78915cc8-c285-4a47-92f5-9a35a81e1b40,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8807195571955719,0.8586712640328893,0.030887221505851523,0.9272115361435593
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_228.json,228,ec3c9143-f7ff-4551-8965-6cf732fbb9b3,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8697754733816696,0.8111540585311983,0.8089034193788441,0.037013425781702455,0.8245589098336225
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_228.json,228,ec3c9143-f7ff-4551-8965-6cf732fbb9b3,69,More than 50 features,-0.8889606531791964,0.894809497515185,0.8854543362010622,0.03208522427965739,0.9233878527145173
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_228.pkl,228,ec3c9143-f7ff-4551-8965-6cf732fbb9b3,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8830296337198601,0.8670516040767264,0.029031081530322335,0.9264797054755576
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_225.json,225,42d967ec-3fbf-4355-8056-5f4327121245,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8789580071468889,0.7806687957918467,0.7725155698782817,0.035241474806794126,0.7946554616434859
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_225.json,225,42d967ec-3fbf-4355-8056-5f4327121245,69,More than 50 features,-0.9014489041458642,0.8305466842006387,0.8114371952398998,0.03318854333328537,0.8662188333240124
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_225.pkl,225,42d967ec-3fbf-4355-8056-5f4327121245,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8498027428142025,0.8262965232690939,0.03169458967280016,0.8952958658661083
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_223.json,223,7e0fd90c-d203-4aa1-86cf-18abbfc2bb23,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8479267139962502,0.8779818088210056,0.8762968264507117,0.03929002760130439,0.8933828929443841
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_223.json,223,7e0fd90c-d203-4aa1-86cf-18abbfc2bb23,69,More than 50 features,-0.8965377114509543,0.873691436416681,0.8678310670702585,0.03762317563303205,0.9001213321072472
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_223.pkl,223,7e0fd90c-d203-4aa1-86cf-18abbfc2bb23,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8967307362279046,0.89711329372593,0.03354941388648395,0.9043078553485956
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_203.json,203,49a1cbc8-e9af-4039-8329-da7a3a231fcd,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8517544690378329,0.8561755146262189,0.8449149852412564,0.03295660673699927,0.880480244642684
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_203.json,203,49a1cbc8-e9af-4039-8329-da7a3a231fcd,69,More than 50 features,-0.8921399284660338,0.8985193210545324,0.8903199762608316,0.029008486987425922,0.9164578059300065
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_203.pkl,203,49a1cbc8-e9af-4039-8329-da7a3a231fcd,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8698988804622607,0.853159384590551,0.0275179558534697,0.9030240151942066
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_163.json,163,1a49bf1a-051b-456f-9850-37c1e50598dc,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8563191919580501,0.85568669527897,0.8565890076383536,0.03551432458888731,0.871862075579813
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_163.json,163,1a49bf1a-051b-456f-9850-37c1e50598dc,69,More than 50 features,-0.8884632480473602,0.8859978540772532,0.8770585429005701,0.033263857870346386,0.9101482254159717
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_163.pkl,163,1a49bf1a-051b-456f-9850-37c1e50598dc,4,['age' 'pT' 'pN_1_0' 'grade'],,0.881706008583691,0.8636664164910526,0.030295842483399463,0.9198771154431832
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_142.json,142,d5468317-bbb3-4c49-9d20-8df6ae8359a0,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8517699533364965,0.8761570953536443,0.8653542824665493,0.0341817895818171,0.9003110600119159
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_142.json,142,d5468317-bbb3-4c49-9d20-8df6ae8359a0,69,More than 50 features,-0.8861673146018818,0.8635750876246967,0.8420154660506812,0.031195703688222994,0.8900263556812985
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_142.pkl,142,d5468317-bbb3-4c49-9d20-8df6ae8359a0,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8532848027320931,0.8263869198078014,0.025845659295107255,0.88810156806662
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_114.json,114,8bdf2213-5282-4513-95ea-7add5771f1b8,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8534832222688078,0.853386167146974,0.8362716334018393,0.031949894349874226,0.8956475338659738
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_114.json,114,8bdf2213-5282-4513-95ea-7add5771f1b8,69,More than 50 features,-0.8922385261846475,0.8834654178674352,0.8612090230855146,0.028247372114687735,0.9154185340013862
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_114.pkl,114,8bdf2213-5282-4513-95ea-7add5771f1b8,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8508195244956772,0.8132590821243652,0.031061737239774758,0.9088513702992972
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_104.json,104,79314b21-cd1d-4af2-a759-69a360112742,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8684524579502945,0.8425169171280429,0.8143292047438183,0.03636363102590561,0.8862846806149266
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_104.json,104,79314b21-cd1d-4af2-a759-69a360112742,69,More than 50 features,-0.8949003943542022,0.8963002021267247,0.8641397760482912,0.03281745481004885,0.9399110419798326
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_104.pkl,104,79314b21-cd1d-4af2-a759-69a360112742,4,['age' 'pT' 'pN_1_0' 'grade'],,0.889928816240443,0.861347387893356,0.02995543534974798,0.9331906695039153
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_95.json,95,9c724306-26e3-4e1c-bd07-3b1c28377169,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8525380881945559,0.8597928436911487,0.8410392860150105,0.03154099400675987,0.8969177895732451
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_95.json,95,9c724306-26e3-4e1c-bd07-3b1c28377169,69,More than 50 features,-0.8899594642628017,0.9011299435028248,0.8835546078200585,0.029519747633719253,0.9342938826667119
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_95.pkl,95,9c724306-26e3-4e1c-bd07-3b1c28377169,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8826271186440678,0.8595280993451271,0.028276716693759123,0.9309377718735972
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_91.json,91,119c59cf-69c6-4fc9-97bc-74f98ea3d35f,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.866945362783814,0.8401892974153622,0.8444319069006464,0.03484758696856131,0.8325283941039433
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_91.json,91,119c59cf-69c6-4fc9-97bc-74f98ea3d35f,69,More than 50 features,-0.8882045331602919,0.9107207863123408,0.9066913699433992,0.03053935227724928,0.9209648591436312
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_91.pkl,91,119c59cf-69c6-4fc9-97bc-74f98ea3d35f,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8717692027666545,0.862453252171063,0.03143577423158922,0.8952798822957861
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_89.json,89,759314d1-6d25-4059-b0b0-5812ab60e434,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8666638792318826,0.8386498516320475,0.8452915254605464,0.03431314587099272,0.8385008193591758
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_89.json,89,759314d1-6d25-4059-b0b0-5812ab60e434,69,More than 50 features,-0.8958150765600366,0.869807121661721,0.8728986844155892,0.033292827768164106,0.8760708660222165
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_89.pkl,89,759314d1-6d25-4059-b0b0-5812ab60e434,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8876112759643917,0.8801912907245176,0.030508554434018908,0.9110748276935074
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_73.json,73,b9771660-7e8a-4e9c-ba6c-33b0363b800a,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8542997521749628,0.8319509556437071,0.8242542713722777,0.03532864325484038,0.848996076481027
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_73.json,73,b9771660-7e8a-4e9c-ba6c-33b0363b800a,69,More than 50 features,-0.8897899534083434,0.8899206635412911,0.8792792956409446,0.0312378957771771,0.9025665687192174
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_73.pkl,73,b9771660-7e8a-4e9c-ba6c-33b0363b800a,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8788766678687342,0.8658186852431562,0.03111647141256532,0.8946885624347829
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_62.json,62,bb2c7b60-4240-48dd-8351-2465e5badc9e,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8442517205473707,0.8379555555555556,0.8331219742925203,0.03794937439572922,0.8542252991345594
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_62.json,62,bb2c7b60-4240-48dd-8351-2465e5badc9e,69,More than 50 features,-0.8938720340986948,0.8392,0.8358384829604835,0.03519045712691342,0.8586350967968672
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_62.pkl,62,bb2c7b60-4240-48dd-8351-2465e5badc9e,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8475555555555555,0.847182915370072,0.0353296907721686,0.8517327220073043
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_42.json,42,b13ea02c-4ed6-44b5-beb6-3879616e0afc,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8582388999559789,0.8358895705521472,0.8343360582450818,0.03319067578989234,0.8423213216119009
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_42.json,42,b13ea02c-4ed6-44b5-beb6-3879616e0afc,69,More than 50 features,-0.8979208387076177,0.8554447852760736,0.8575640081412387,0.03132754709202541,0.852129455448124
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_42.pkl,42,b13ea02c-4ed6-44b5-beb6-3879616e0afc,4,['age' 'pT' 'pN_1_0' 'grade'],,0.81388995398773,0.8074494666899165,0.03141615067206105,0.8292057975312512
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_32.json,32,db7cddcf-cf2c-487a-9a9d-ad36a4ac9eb4,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8519838564013138,0.887756871585884,0.8880914924078849,0.03812484850326281,0.9061303307382607
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_32.json,32,db7cddcf-cf2c-487a-9a9d-ad36a4ac9eb4,69,More than 50 features,-0.8839452175851215,0.922049770224573,0.9226605126558396,0.03552738909986437,0.9330107350727497
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_32.pkl,32,db7cddcf-cf2c-487a-9a9d-ad36a4ac9eb4,4,['age' 'pT' 'pN_1_0' 'grade'],,0.9090869678314402,0.9056373148072099,0.03453222176265142,0.9276017784370849
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_30.json,30,ac4cb82e-cbea-49e1-a915-2105bc4f8b5e,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8629964037504039,0.8081294548256598,0.8095491567609605,0.029875707349313156,0.7977238223363954
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_30.json,30,ac4cb82e-cbea-49e1-a915-2105bc4f8b5e,69,More than 50 features,-0.8955246242141042,0.8720863032171066,0.8702834852895258,0.027874764969010323,0.8702408876330449
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_30.pkl,30,ac4cb82e-cbea-49e1-a915-2105bc4f8b5e,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8465613561934117,0.8354506847222728,0.028404049459544705,0.8713688881931522
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_27.json,27,c9ed9c5a-2fe3-4c66-ac7c-000fb2f91404,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8589682206892488,0.845627518980223,0.8464610095070457,0.03430078306673703,0.856031650598126
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_27.json,27,c9ed9c5a-2fe3-4c66-ac7c-000fb2f91404,69,More than 50 features,-0.8940712057194473,0.8640922298247259,0.8560476001884593,0.03170971305220514,0.8881156827194645
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_27.pkl,27,c9ed9c5a-2fe3-4c66-ac7c-000fb2f91404,4,['age' 'pT' 'pN_1_0' 'grade'],,0.879651326272378,0.8687698877785258,0.030595932064634207,0.9001454349377219
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_25.json,25,ff680e4c-4719-4824-9729-1ad019e78ed9,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8632152111187276,0.7806462943449245,0.7840227659154037,0.04006949905977613,0.7734999307486824
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_25.json,25,ff680e4c-4719-4824-9729-1ad019e78ed9,69,More than 50 features,-0.8947876029636526,0.8726729891113453,0.8703604520670877,0.037051601984813436,0.8774434643765989
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_25.pkl,25,ff680e4c-4719-4824-9729-1ad019e78ed9,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8073410607657183,0.7936439747644451,0.03600444742673621,0.8314907420431622
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_23.json,23,ad5f1a41-7683-48be-864e-dbe26078f482,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8523863194593557,0.8278609998258143,0.82585173956929,0.03995694448150216,0.842063700444302
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_23.json,23,ad5f1a41-7683-48be-864e-dbe26078f482,69,More than 50 features,-0.8854905329958719,0.8711025953666609,0.8708128654353423,0.03669127020618152,0.8725301068727238
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_23.pkl,23,ad5f1a41-7683-48be-864e-dbe26078f482,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8607385472914126,0.8616187944541625,0.036480408359415045,0.8617775683952374
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_6.json,6,2348c92e-0048-40bd-a9c9-c874438a8a51,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8727081073699438,0.807750556792873,0.8129128697753595,0.04058876585513723,0.7920202030244836
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_6.json,6,2348c92e-0048-40bd-a9c9-c874438a8a51,69,More than 50 features,-0.8954289857917402,0.8710913140311805,0.8750017777061883,0.0371279874605429,0.8583321269433818
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_6.pkl,6,2348c92e-0048-40bd-a9c9-c874438a8a51,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8966146993318486,0.8921498876344233,0.03578621336104068,0.9096391955989966
+RandomSurvivalForest_selector_T0,../models_json/larcher_RandomSurvivalForest_selector_T0_0.json,0,29d5208d-0d2c-41d2-b4c9-c622ae2d8bb3,25,"['age' 'sex_M' 'bmi' 'cci' 'asa' 'ecog' 'hypertension' 'hb_pre' 'plt_pre'
+ 'crea_pre' 'gfr_pre' 'lesion_number' 'symptoms' 's_loc' 's_sys' 'pain'
+ 'haematuria' 'c_size' 'cT' 'cT_4lev' 'cN' 'pos_sup' 'pos_mid' 'pos_inf'
+ 'pos_full']",-0.8599762917662576,0.829959154679453,0.8334463752565164,0.03718636731612174,0.8344063923842926
+RandomSurvivalForest_selector_T1,../models_json/larcher_RandomSurvivalForest_selector_T1_0.json,0,29d5208d-0d2c-41d2-b4c9-c622ae2d8bb3,69,More than 50 features,-0.8869109146653764,0.891049547149707,0.9005856730964518,0.03531183885891502,0.8813627325145029
+CoxPHSurvivalAnalysis_grant_finetune_T1,larcher_CoxPHSurvivalAnalysis_grant_finetune_T1_0.pkl,0,29d5208d-0d2c-41d2-b4c9-c622ae2d8bb3,4,['age' 'pT' 'pN_1_0' 'grade'],,0.8727579470786716,0.8803141254330841,0.032753423784946646,0.8648241954701757

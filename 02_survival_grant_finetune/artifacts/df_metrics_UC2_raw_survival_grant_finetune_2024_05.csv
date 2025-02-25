@@ -1,0 +1,201 @@
+model,model_path,random_state,parent_run_id,n_features_in,feature_names_in,best_performance_tuning,concordance_index_censored,concordance_index_ipcw,integrated_brier_score,mean_cumulative_dynamic_auc
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_914.pkl,914,7fe8ecc9-f795-43e3-81cc-06364e591407,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8623873873873874,0.8607560805881987,0.0329725021461211,0.8565536155654205
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_996.pkl,996,d0b45547-c4d5-4733-b7e3-8f9c325bcc4d,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.780829950383401,0.7762924779387471,0.035596244555539155,0.805372291911669
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_975.pkl,975,3ac63a6a-4c0e-446e-adf0-ffb374b298f9,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8728588440047632,0.84641473425488,0.02912431902729754,0.8987809453609089
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_968.pkl,968,b25dc34d-38fa-4210-b8cb-a840bbd02346,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.795536959553696,0.7749254843928914,0.0272064722803495,0.8190234615909331
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_963.pkl,963,d555cc8a-63d6-4960-b826-eba85d438df6,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8387840113445005,0.8334840582029471,0.03294442855080603,0.8677843085101656
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_932.pkl,932,55bdef78-4696-4bb7-95ea-d36bf8590cd7,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.7979051419243675,0.8077117720816893,0.028220261643322614,0.7835809052131707
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_890.pkl,890,09f76cd4-b548-460a-bc04-eb2c966ef1d5,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.7770775186819123,0.778848058109612,0.03775363314075497,0.7880634212879207
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_885.pkl,885,c1d61aff-357d-4a20-bb66-5054b1dd076a,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8047539770625232,0.7845951451832963,0.030466667444385115,0.8420508255355914
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_828.pkl,828,4464c40c-63d4-419a-a44a-6bbbf113b194,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8680003532944709,0.8335245539883573,0.027323305952519396,0.922937061186744
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_826.pkl,826,6cbe3f92-9fed-4e60-99f0-99ddee4b1702,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8136380527684876,0.7860973827946759,0.028235709496112985,0.8498842123123518
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_825.pkl,825,5dae0f5f-61b1-4086-bbbd-88c7e0318758,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.748191765578635,0.7510836722343193,0.03383895049620612,0.7641399831095291
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_818.pkl,818,a1f2e20c-3186-483e-b79e-9c919cb16973,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8375066833006595,0.8217561178152153,0.03210240469315154,0.8658908696688221
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_805.pkl,805,fa73ace3-b719-4462-a8f5-9c8b8951efb9,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8102512192877519,0.79533128577343,0.03010392547993027,0.8359233667978268
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_790.pkl,790,0f2cc7cc-ec39-42bc-b6e9-91c57c7f715f,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.7938711131140154,0.7871410765930087,0.035100059755542604,0.8024167587951413
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_775.pkl,775,c3226ca9-b4f0-4d55-b1bf-4f9a0b2ad43a,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8430043383947939,0.8238270780025002,0.029662273032274776,0.8854935176606169
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_771.pkl,771,cc38ce40-8556-48de-ab97-36861865c284,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.865559698257175,0.8522972012705609,0.03288206168997772,0.8896881218667521
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_759.pkl,759,47f88fcd-724e-407f-a283-0a7e6bbd6155,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8104449606862044,0.7789592467401585,0.0338205169845305,0.8628516313579467
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_758.pkl,758,148a4897-a2c0-4660-920a-28563ccfdec3,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.800423194669548,0.7938755195863797,0.03400470700515342,0.8211228986233172
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_755.pkl,755,60c5bcb1-b20d-4000-9a18-32387eeb0e5c,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8322955773280835,0.8131847212535647,0.03290604165968068,0.8553332871428442
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_754.pkl,754,681cdd6b-2355-40b2-954c-45f2a278de20,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.7676917543386386,0.7595050027495878,0.03808118644722259,0.8022142396094931
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_734.pkl,734,c0621665-eb61-4126-a668-108cf6551c29,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.7973023780430492,0.7840326753451315,0.029773674369667456,0.827792431970723
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_733.pkl,733,52504331-03e7-4053-8f6f-7f4746d509f9,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8440531800215595,0.8211701315188067,0.0320607185563738,0.8778866426330643
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_718.pkl,718,13a44cd7-2ca2-41c8-8af6-9d9dd470a33b,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8440994362813049,0.8228482745067146,0.03105438157894874,0.8930157847430606
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_704.pkl,704,2c1d0735-7a77-4720-ac46-e6a8eeff5f50,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8567630891231864,0.8172607367464265,0.029175651158728083,0.9124016270519583
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_697.pkl,697,ed79a4ea-7076-431e-8964-2523ddd6face,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.7926481084939329,0.787690192512699,0.03464507162068316,0.825330918567588
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_694.pkl,694,bd75b5b3-d49c-442b-b8a1-f0ea961a5cae,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.790580704160951,0.7898801619135952,0.03162401787341803,0.8004478968027352
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_692.pkl,692,f94ff9b7-8714-4706-9172-475a530d9655,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.9019134396355353,0.894452146893864,0.03170663570047902,0.9207197816667168
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_667.pkl,667,474aba8f-baf2-48c7-b3b0-6f3cf84032a0,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8453123545293735,0.8436605220953999,0.03382493222778623,0.8586622692040813
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_665.pkl,665,8647d5dd-cd28-49b8-ba1e-a7a0275bc38e,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8883460007238508,0.8854304489260593,0.031595230137070066,0.9007072569875968
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_654.pkl,654,db1eaaa0-d4a3-480e-94b7-3aee720adbd5,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8126922381038538,0.8021003132560297,0.031793660215108786,0.8454853720854572
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_619.pkl,619,a0785c37-ec32-4f39-a4e8-f91f8dae9be3,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8555008944543828,0.8497646079827613,0.036355960476250164,0.8627606630331841
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_616.pkl,616,18eb2432-0872-4b39-a41f-84a5292f0e1c,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.829658262321005,0.8012036594043694,0.033384472719147865,0.8778220561989825
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_604.pkl,604,cd70dbce-d092-4cfd-ab15-18f42358962f,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8433286018452804,0.8272644164007382,0.03494804612868999,0.8823763790851348
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_603.pkl,603,4697db56-65ef-4e80-9c4a-87a7145e8f24,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8453149864270336,0.8294316187018591,0.03082053724254168,0.8896063651581199
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_597.pkl,597,b347fbc0-0d8a-4e8f-bc14-65cc4b01921f,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8749543629061701,0.8755317661747536,0.029824510570227156,0.8799902004486544
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_592.pkl,592,a9f23a66-75b8-4d77-8ac2-464f3d61cce8,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8230578966654453,0.8335467244771394,0.032309849985026035,0.8097311702304658
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_586.pkl,586,f1ca761e-4c91-4492-8b97-c7e481d00ce6,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.7567874330336875,0.7347447456106412,0.03287581525302833,0.7985069078904937
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_574.pkl,574,788c47ae-d02b-43a2-a6f9-adbb343dea9c,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8186560565870911,0.8273845061944354,0.03620093418513878,0.8275820631807438
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_558.pkl,558,37c316e9-00e2-46ce-a38b-b67db20b6034,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.7782600664942741,0.7767214562242017,0.03822523161702289,0.7852836802868473
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_554.pkl,554,30a565d5-3399-4ce8-ae86-aeccce8cbb80,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.7432357301704967,0.7127506145546685,0.034068476794754214,0.792805338259037
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_551.pkl,551,cd3788fc-b289-482c-a03b-9502d4c42259,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8027305282005371,0.8015125715739773,0.033667268029366176,0.8102012004072812
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_539.pkl,539,9317bc4a-eab1-4004-9e8c-e6522401f77f,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8225392043944361,0.8191464060416711,0.03250036023973271,0.8369304321494822
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_535.pkl,535,1cea67ae-5bdb-4894-a353-8c1533f8c962,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8362231605426287,0.812091040234118,0.03382527876582564,0.8872508266023961
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_533.pkl,533,a37cfb58-e239-4ac6-985f-dbfaf4f24f2c,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.7352559948152949,0.7402950667988867,0.03419926290493758,0.7175735050801231
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_517.pkl,517,23705477-260a-4669-9e2f-737ba61f05c6,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.7996939142960029,0.7897403213627601,0.037351214142686134,0.8387034718878674
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_462.pkl,462,bce7536c-9bfa-4f9e-8a19-d7426e649806,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.7521789398790466,0.7423107748126974,0.03491412952344041,0.7924211343994331
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_460.pkl,460,2d9071e2-d923-46c2-94f9-ca586537c23a,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8399711659758515,0.8170484758043993,0.031205897867910833,0.8812146024994991
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_459.pkl,459,e00b0858-3da7-40d1-ba70-9e77795ef221,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.7925065533761186,0.782620830501792,0.03217422544011659,0.8182412517114197
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_457.pkl,457,b189fb5b-05c3-467e-898e-809b0efb16af,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.7581418950087646,0.73047192997322,0.03323722274629722,0.7983274977137373
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_433.pkl,433,5094242b-4f5c-49ba-a47c-054b094e4984,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8450757575757576,0.8349264057972301,0.032012292209011944,0.863793810771464
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_432.pkl,432,d8d2bcd0-83bc-4ce3-8f6c-fb74c26d87a1,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.7503563622541101,0.7446606204714343,0.03559829428077938,0.7712103810964182
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_429.pkl,429,4bb00b98-4629-4f3a-82c9-af36a849f5e9,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8430983973806652,0.8428630558089921,0.03641237875404884,0.8519467623123065
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_395.pkl,395,ccf5acb7-cb93-4b55-81f8-08a2fa9c093a,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8411416975472031,0.8394297677311041,0.03501761980106223,0.8541665366571811
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_394.pkl,394,3fc123de-fd83-4c97-9812-3743c7272130,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8304882525697503,0.8323075540041674,0.030305078976302254,0.8351638855453744
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_391.pkl,391,b053715a-162d-4cb5-83ca-c65ab1837424,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8787737607156169,0.8830422143310079,0.03278131220480216,0.8964842881753424
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_379.pkl,379,e2337f94-a79e-45ae-91b9-5651dffc9551,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8342696629213483,0.8177489877339518,0.035178996934983914,0.8662809121842515
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_376.pkl,376,599d9dbd-5ddb-428e-9acd-2f52f2b3cb92,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8092210563756003,0.8109919453065598,0.03582045251537072,0.8249948043692121
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_367.pkl,367,3f9bafa8-9938-45fa-b9d0-d62bb0ff55b8,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8077969174977334,0.8097038857998904,0.03372440919263689,0.801960620515224
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_342.pkl,342,ecdaa69e-7617-4693-b69d-67a82076f777,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.848861007296672,0.8490364837838131,0.03428751722276297,0.8498947156054385
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_284.pkl,284,0bb4b704-ec8f-46d5-ac5e-1bb77750bb57,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.84494243029784,0.8374547499461711,0.030399015393864554,0.86780437523552
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_281.pkl,281,0835a444-191a-4453-9573-ae5a52760fb0,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.7527306103717302,0.739068846118826,0.032138862236623475,0.7763914926832208
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_269.pkl,269,2a0cb7bd-aeac-46fb-9444-a8083fe57642,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.925823927765237,0.9216552647881817,0.028695685501623942,0.9412839363472397
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_255.pkl,255,cca65161-1bb1-4420-83e9-680db22e83bc,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8070986308537542,0.7930048093571389,0.03414513211533129,0.8332553713460708
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_250.pkl,250,7a480e0a-70aa-49fe-a194-fda5da3a7b04,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8945407201221155,0.8849207675527505,0.030612060012378345,0.9214001358113267
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_238.pkl,238,7cbd5590-d37d-4a27-9f5c-b188e9d6419c,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.7702490774907749,0.757014440033264,0.03401152613337875,0.8090833854310988
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_237.pkl,237,d55c6c8d-5cb6-4351-95d8-07cbd0f4da01,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8022284122562674,0.8093187104543467,0.03757127634405161,0.7943374375637314
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_228.pkl,228,7f843367-aada-466a-ba0c-c1a65420f46e,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8142370697588809,0.7921193270038703,0.030393074589931526,0.8679879651470858
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_225.pkl,225,165547f5-3906-49ad-91cc-67a6834a5fae,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.7956509487131317,0.7767381983493141,0.031759768543360656,0.8381674746419544
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_223.pkl,223,898bce42-34b6-439d-bb39-7db6c71f0b44,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8435301184142784,0.8383951196884971,0.03840266593116192,0.8679648038160677
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_217.pkl,217,0d17568e-93ef-4faa-ac67-18a7fc42aaf4,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.863517060367454,0.8407542871786547,0.029819909080392445,0.9015993024621107
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_209.pkl,209,90292fc1-7d33-43b3-8a90-077ab70522b6,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8262742282842785,0.813434850967375,0.032657097513544925,0.8502019599225913
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_207.pkl,207,74c1e8f2-082f-4e3b-b43b-86f92401747f,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.851553880102979,0.8403603147489158,0.028675922615746623,0.8664425753622993
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_203.pkl,203,8522fa51-f8dd-4f73-987b-573ae58bafb2,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8311213434452871,0.8122342666926121,0.027780969199681285,0.8688319308131172
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_200.pkl,200,58da1f6a-1a80-455d-96ce-7d77ee04ae3f,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.7389483065953654,0.7210813371381166,0.03582068947347278,0.7937983578898525
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_178.pkl,178,6d1ee7fd-9483-4381-a967-29fb60460407,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8473159144893112,0.8395705088678397,0.029868018272766722,0.8563999108435517
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_166.pkl,166,30ab0c17-9840-4584-b52f-7be5f2040d81,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.7808106627715903,0.7672577190055063,0.03376166868433005,0.8008252583795975
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_163.pkl,163,c4769368-cf65-4103-be3c-9c9ac2590d18,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8096834763948498,0.7784639354264724,0.03314517082869082,0.8721099433437186
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_160.pkl,160,d7922457-ccf6-40c3-8580-db7f6a338c04,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8441036191901243,0.816494816610059,0.0285647397720285,0.879146365975478
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_142.pkl,142,de86257b-0ee7-4ddb-8336-ac49d40a0cad,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8373775501033522,0.8152294140807759,0.028609432726654234,0.8739702930054986
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_136.pkl,136,c09196d7-fead-4a20-8442-e4d971458d36,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8003860310620343,0.7834439071431375,0.0357511528430036,0.843452209599125
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_129.pkl,129,c7394bdb-f54b-47ac-8fc7-ec11582380d8,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.7810825294748124,0.7641346034834531,0.03518526703366993,0.8131372894418909
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_114.pkl,114,a1bda38c-d99a-45d0-83cd-9b91a0b80089,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8372658501440923,0.8001118847963898,0.03138345025691083,0.894498953221278
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_104.pkl,104,26113bd7-cfbb-46c3-8044-d4317cb14399,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8514807979611565,0.8250452431579861,0.03272019057926517,0.9019250542029854
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_95.pkl,95,12b34618-3379-4c63-9565-5c906fccac3c,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.806120527306968,0.7903204284197712,0.032909945819014526,0.8507531224639852
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_91.pkl,91,c97b95e5-b9b7-4801-97e4-be2f2f4e67be,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8215325809974517,0.8088786910474653,0.03201128616028471,0.8457338429418224
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_90.pkl,90,d7a96d43-b328-4a49-b9f2-09a28636c438,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8005790645879732,0.7838264597958136,0.03636692497057966,0.8320239433204324
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_89.pkl,89,b814bb0c-6a79-4340-8cd0-0a2e1fe85bae,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8742117952522255,0.8642358568426729,0.03168782214238048,0.9014270665779527
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_73.pkl,73,29343a4d-cbbe-4565-9fe9-0745ad0fee7a,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.7970609448250991,0.7754848469735949,0.03309234234863788,0.8160018436450415
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_62.pkl,62,13cc0213-77cb-4cc0-85ec-5f5deebb753b,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.7992444444444444,0.7999439870101812,0.03622770994699229,0.805487837548438
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_42.pkl,42,dd2f1c36-1950-47f3-b724-4783390379e2,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.7719996165644172,0.7688536889896876,0.03275604847131117,0.7785102523461942
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_40.pkl,40,17c64af8-9461-49b4-ac5f-9d81a1787770,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.74121481201587,0.7177349747135788,0.02985299356118579,0.7943212252040878
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_32.pkl,32,1ca18856-5536-458f-b75f-b38b929f2037,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.840891355241481,0.8324297664215978,0.036789179506973926,0.8745205485961862
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_30.pkl,30,85bdcd61-892c-41ca-92c3-e4b235b3e8b5,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.7603544596416876,0.754328199800693,0.028914246809802903,0.7630759251856285
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_27.pkl,27,c01fce92-7ec9-4e10-b318-4ab5a927853d,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8231793045271347,0.8013436704049757,0.029849432451282683,0.8604188413770132
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_25.pkl,25,53df85bf-53ef-4d8f-a122-e8c426ad571b,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.7838514225500527,0.7769667100976217,0.03592673111930701,0.7924964347213398
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_23.pkl,23,3db4ac96-e0c2-48e4-acee-aa39da85834b,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8266417000522557,0.8283772159687517,0.03576690471446576,0.829565743468428
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_8.pkl,8,e9dc397a-928c-4cbf-a9d4-157fe3da2141,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8285535559618901,0.8090491584814989,0.029361422146675083,0.8554831070678873
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_6.pkl,6,be8233b9-bd95-438f-891b-2cc762a456b1,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.819109131403118,0.8117019959404782,0.036631593624095134,0.840430835157378
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_1.pkl,1,992b76b1-1fbf-4811-8f04-79bc79dc4dd1,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8985094256904866,0.8808242584435583,0.0330879179536943,0.9252422375680948
+CoxPHSurvivalAnalysis_grant_finetune_T1,raw_CoxPHSurvivalAnalysis_grant_finetune_T1_0.pkl,0,ef1762ca-9a0c-4559-ab93-dfc7aee5cc11,4,"['ANM_1_age_binary' 'IST_1_kidney1PathologicalStage2009_binary'
+ 'IST_1_kidney1PN2009_1_0' 'IST_1_kidney1Grading_binary']",,0.8275173148641449,0.8262628852952368,0.03532907040038498,0.8323790051384823
