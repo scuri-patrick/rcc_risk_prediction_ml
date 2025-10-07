@@ -1,0 +1,301 @@
+model,model_path,random_state,parent_run_id,n_features_in,feature_names_in,best_performance_tuning,concordance_index_censored,concordance_index_ipcw,integrated_brier_score,mean_cumulative_dynamic_auc
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_996.pkl,996,077b60b4-5196-4559-8d92-11d1a26c8177,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8223274695534506,0.8158486224726612,0.033556846026045486,0.8405127498626855
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_996.pkl,996,077b60b4-5196-4559-8d92-11d1a26c8177,1,['ssign_score'],,0.7811005863779883,0.7716506781324655,0.03345009005877279,0.8005905368790583
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_975.pkl,975,04b67b70-1e03-45c3-8758-40a55f01a538,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.877164056059357,0.8617922511830302,0.02976300465906624,0.9050846788783363
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_975.pkl,975,04b67b70-1e03-45c3-8758-40a55f01a538,1,['ssign_score'],,0.8471191719336815,0.8314115130705056,0.03060648527697011,0.8812553314719039
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_968.pkl,968,27722f24-8c3e-4d8f-a843-9a2c2d9522ab,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8967921896792189,0.8804028726751687,0.024192698037229312,0.9253712168731613
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_968.pkl,968,27722f24-8c3e-4d8f-a843-9a2c2d9522ab,1,['ssign_score'],,0.8727103672710367,0.859609020087094,0.024836254664018363,0.8981970396131633
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_963.pkl,963,6eaba57c-b0bd-458a-af99-45952c8545c5,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8202162545422317,0.7930502134842677,0.03039194593852373,0.8641752813032186
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_963.pkl,963,6eaba57c-b0bd-458a-af99-45952c8545c5,1,['ssign_score'],,0.7936275813170256,0.7685958189977408,0.031118731910536202,0.8385952406771848
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_932.pkl,932,2b4fb0c8-6a4d-4932-b36e-cbe1f65615bd,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8812913757141562,0.8891498883362642,0.029098650155324046,0.874091838876529
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_932.pkl,932,2b4fb0c8-6a4d-4932-b36e-cbe1f65615bd,1,['ssign_score'],,0.8340890541398386,0.8410212456937239,0.030056015712272722,0.8337608951941373
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_914.pkl,914,7b0612d7-1474-4c11-bea6-5f31d18617a8,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8774774774774775,0.868489746458811,0.031052425637791876,0.8964238344608247
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_914.pkl,914,7b0612d7-1474-4c11-bea6-5f31d18617a8,1,['ssign_score'],,0.8638288288288288,0.8514130599133295,0.031232888485452772,0.8975143260014875
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_890.pkl,890,1a0828e3-745e-406f-a416-ae42fe37d2b4,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.7898172323759791,0.7825030403862893,0.037682952133769,0.8117831075509406
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_890.pkl,890,1a0828e3-745e-406f-a416-ae42fe37d2b4,1,['ssign_score'],,0.7862158998829567,0.7769462963100124,0.036874307827950537,0.8127540110027661
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_885.pkl,885,ace4d8fe-dea1-4b60-9023-61ad71f12219,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.858259341472438,0.8396136810809357,0.02951673941546452,0.8960331048287806
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_885.pkl,885,ace4d8fe-dea1-4b60-9023-61ad71f12219,1,['ssign_score'],,0.8389289678135405,0.8181906359167791,0.030426560091655883,0.8822659631380793
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_828.pkl,828,d3b3e8de-a5d0-4859-89bd-7c9ece2ab308,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.9063769652004946,0.8757929781495805,0.027113499851705494,0.9497006904810834
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_828.pkl,828,d3b3e8de-a5d0-4859-89bd-7c9ece2ab308,1,['ssign_score'],,0.8863275039745628,0.8442665735959732,0.02634342677311864,0.9455388513365667
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_826.pkl,826,f82c336b-9606-4497-a777-ec0763cb8fda,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8862876254180602,0.8764332920417288,0.028463373763995388,0.9083737998975745
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_826.pkl,826,f82c336b-9606-4497-a777-ec0763cb8fda,1,['ssign_score'],,0.8711445559271647,0.8597894805624051,0.029891012059839798,0.8987264599113792
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_825.pkl,825,a7451bce-4ef2-4496-a96f-40e2bd851deb,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.7833364243323442,0.7826980610443754,0.03555004092728504,0.8022777012306318
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_825.pkl,825,a7451bce-4ef2-4496-a96f-40e2bd851deb,1,['ssign_score'],,0.790522997032641,0.7900438103786682,0.03506093379980261,0.8154821680847485
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_818.pkl,818,0a4aa11b-dfb5-4da4-b343-a55005bbb2bf,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8993049367314204,0.8827628337701334,0.03063950733535734,0.9270579803112255
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_818.pkl,818,0a4aa11b-dfb5-4da4-b343-a55005bbb2bf,1,['ssign_score'],,0.8783193726608448,0.8718170259522258,0.03208597045943154,0.8911676738115994
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_805.pkl,805,78aacacc-ffae-4616-9d61-b82af0d06622,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.9155240636790283,0.9023723832397372,0.027541105316422464,0.9369021424791487
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_805.pkl,805,78aacacc-ffae-4616-9d61-b82af0d06622,1,['ssign_score'],,0.8938529492960339,0.8751705033931693,0.028549605988294414,0.9282517770158875
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_790.pkl,790,ef69a864-1c96-45b9-b591-ab2d42bb35b3,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8865705272645336,0.8844794465236221,0.028726585781023693,0.8870357065829045
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_790.pkl,790,ef69a864-1c96-45b9-b591-ab2d42bb35b3,1,['ssign_score'],,0.8654799459215863,0.8682954303446854,0.02899048422195905,0.8588067715510732
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_775.pkl,775,049462f6-d3df-4317-9bf4-17bfa12199b2,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8303958785249458,0.813565881260112,0.03152413966062359,0.8656766479535483
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_775.pkl,775,049462f6-d3df-4317-9bf4-17bfa12199b2,1,['ssign_score'],,0.8132230657989877,0.7916151522014907,0.03212271829960397,0.8568422189219138
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_771.pkl,771,b3481fbd-2963-41e8-8281-2614b116b327,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.9262550940778635,0.919360346301407,0.02833820365953578,0.9382083993820317
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_771.pkl,771,b3481fbd-2963-41e8-8281-2614b116b327,1,['ssign_score'],,0.8898812104396081,0.8809321814148978,0.030060460303604666,0.9130069730921131
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_759.pkl,759,d4438a0e-e562-42d6-8864-995db0d524fc,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8408238027162259,0.8020893013244714,0.028339403923548303,0.8983645155058476
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_759.pkl,759,d4438a0e-e562-42d6-8864-995db0d524fc,1,['ssign_score'],,0.8134828448892065,0.7756986609823621,0.02900184896215905,0.8711043277755515
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_758.pkl,758,632dab04-4c15-4efd-8bbf-f4859fd69c1d,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8624617323969026,0.8651207297535134,0.03189312525405027,0.8736789542979198
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_758.pkl,758,632dab04-4c15-4efd-8bbf-f4859fd69c1d,1,['ssign_score'],,0.8435080136862957,0.8407977563813255,0.03171932305823354,0.8705322516266634
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_755.pkl,755,4c313da2-0298-4f54-a784-8d7c703378f4,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8850380001831334,0.8855356694110024,0.027775295484203866,0.8796571733228135
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_755.pkl,755,4c313da2-0298-4f54-a784-8d7c703378f4,1,['ssign_score'],,0.8877850013735006,0.8908453479789453,0.02797245787899561,0.8840548387375606
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_754.pkl,754,eef7cb4b-1b50-4bec-9a98-dc17a7b1e754,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8791025986871684,0.8783994988585652,0.03122293041559554,0.8978558100604492
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_754.pkl,754,eef7cb4b-1b50-4bec-9a98-dc17a7b1e754,1,['ssign_score'],,0.8670083625573239,0.862649816313206,0.031079754004675723,0.8976313313475032
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_734.pkl,734,562c06a9-bd64-4a1b-92df-dcabf68ca453,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8487169846790111,0.8415065994999873,0.027507545284923534,0.8669959267031477
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_734.pkl,734,562c06a9-bd64-4a1b-92df-dcabf68ca453,1,['ssign_score'],,0.8661058370147571,0.854081199402082,0.02663370589868546,0.8912306996867729
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_733.pkl,733,70170ec7-453f-47b8-8daa-21b07fee9bd1,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.836103126122889,0.8073708051090275,0.029618335231199118,0.8839213741116456
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_733.pkl,733,70170ec7-453f-47b8-8daa-21b07fee9bd1,1,['ssign_score'],,0.8142741645706073,0.7822336560087825,0.030674000765063446,0.8703540294642045
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_718.pkl,718,12770799-beaf-4684-ac31-340719f5ea59,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8290361334442288,0.8287990797110789,0.029386803996974332,0.8442839651050107
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_718.pkl,718,12770799-beaf-4684-ac31-340719f5ea59,1,['ssign_score'],,0.8088901210609001,0.8096542917443784,0.030287716800864457,0.8212110832936181
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_704.pkl,704,1ada580a-f0f8-4761-8883-140b098898c4,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8911868072452014,0.8570895470806789,0.02474031844533579,0.9370833888642409
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_704.pkl,704,1ada580a-f0f8-4761-8883-140b098898c4,1,['ssign_score'],,0.8604127241596828,0.8238471146335954,0.02556913295191715,0.9143793214935402
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_697.pkl,697,773f367b-bd52-4712-9a39-6439518946f0,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.9106441827266238,0.9077977811175942,0.02894355602658649,0.9265243640436418
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_697.pkl,697,773f367b-bd52-4712-9a39-6439518946f0,1,['ssign_score'],,0.9063615274803711,0.8960020446237731,0.029467960515063077,0.9367000912654637
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_694.pkl,694,4ad5712f-143d-443d-9aff-268823c5d2df,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8887517146776406,0.8946463982416859,0.03231194982863315,0.8859717488984601
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_694.pkl,694,4ad5712f-143d-443d-9aff-268823c5d2df,1,['ssign_score'],,0.8958847736625515,0.8939609415009994,0.032538936168361086,0.9117259723619398
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_692.pkl,692,870a05be-f2e1-4c19-ab15-99bf602437fe,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.9085193621867882,0.8885393868345355,0.026846985635990153,0.935577760668987
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_692.pkl,692,870a05be-f2e1-4c19-ab15-99bf602437fe,1,['ssign_score'],,0.8961731207289294,0.8719803900366959,0.027749348820540042,0.937848718333648
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_667.pkl,667,11ec7a50-ec69-4792-a9f5-a48764f6aa49,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8352574248207801,0.8388247923509515,0.0311865499589243,0.8489357963922568
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_667.pkl,667,11ec7a50-ec69-4792-a9f5-a48764f6aa49,1,['ssign_score'],,0.8003910250442231,0.8057798167439434,0.03201012500021849,0.8112518547676089
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_665.pkl,665,90908c79-801e-450d-82b9-b6632f038d0d,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8695258776692002,0.8735460325702012,0.03089540718334787,0.8691188508858002
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_665.pkl,665,90908c79-801e-450d-82b9-b6632f038d0d,1,['ssign_score'],,0.8587133550488599,0.8601518165826585,0.03157662205883078,0.8562732285922968
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_654.pkl,654,dee57339-5cdb-4a97-b7d2-b1d5f58cbbb3,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8527682286954948,0.8405908992356542,0.03097386534651271,0.8770351831130925
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_654.pkl,654,dee57339-5cdb-4a97-b7d2-b1d5f58cbbb3,1,['ssign_score'],,0.8363940654966528,0.824563521447964,0.03221859836926211,0.8666231258943772
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_619.pkl,619,a995309a-4300-470f-9b79-4b1a1b5d0549,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.858139534883721,0.8437495049049972,0.03207906811134309,0.8847178639608024
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_619.pkl,619,a995309a-4300-470f-9b79-4b1a1b5d0549,1,['ssign_score'],,0.8261627906976744,0.8105092798412581,0.031361214877741385,0.8556035230042477
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_616.pkl,616,325d4ead-bb3b-440d-9c8a-c750b7df9d4b,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.9031011156988492,0.892976159244849,0.029896424454500525,0.9220595627790155
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_616.pkl,616,325d4ead-bb3b-440d-9c8a-c750b7df9d4b,1,['ssign_score'],,0.8978300975138365,0.895488536848026,0.029864183215955607,0.9064390735320628
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_604.pkl,604,31354650-b2ff-483c-af0a-7242cc51a0b1,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8644872249822569,0.8520193969871931,0.031475472355559656,0.8854832867809933
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_604.pkl,604,31354650-b2ff-483c-af0a-7242cc51a0b1,1,['ssign_score'],,0.843639105748758,0.8328741836879646,0.032018913096590974,0.8633938928267374
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_603.pkl,603,4dede60f-5325-437f-93ff-53885204f7f8,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8770476457923804,0.8608070849020671,0.02899904788605,0.9119314550885411
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_603.pkl,603,4dede60f-5325-437f-93ff-53885204f7f8,1,['ssign_score'],,0.8614621361040906,0.8421627307964905,0.028797418420857125,0.9101291054902878
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_597.pkl,597,1eea640f-7e04-427e-9ff7-057044e91efb,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.896951442132165,0.898693997501475,0.028489625316697933,0.8897433759062741
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_597.pkl,597,1eea640f-7e04-427e-9ff7-057044e91efb,1,['ssign_score'],,0.8890562248995983,0.8819106617223458,0.029340801094899744,0.9052012721024205
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_592.pkl,592,12093f10-12fd-4a02-a020-8d1b02f3c2fa,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8804507145474533,0.8821564648537059,0.03121311694670983,0.888530665183798
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_592.pkl,592,12093f10-12fd-4a02-a020-8d1b02f3c2fa,1,['ssign_score'],,0.8362037376328325,0.8377270203222684,0.03155090731085256,0.8482972592586261
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_586.pkl,586,d5109a1e-f91b-4692-b363-cf0bc48ce7c4,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8419141015163897,0.8219604490385469,0.03270446041435497,0.8753333864447769
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_586.pkl,586,d5109a1e-f91b-4692-b363-cf0bc48ce7c4,1,['ssign_score'],,0.8026423317897031,0.7801323064142682,0.03290140195933824,0.8416839942048809
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_574.pkl,574,e8b340e6-1f3b-4fbb-9574-de088dc558f1,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8337312113174182,0.8393662909092282,0.03205580863212594,0.8463380906760317
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_574.pkl,574,e8b340e6-1f3b-4fbb-9574-de088dc558f1,1,['ssign_score'],,0.8335101679929267,0.8370573161897947,0.03246092331577181,0.842877720849693
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_558.pkl,558,f6c604b2-a214-4f08-9370-6c67524dbcc0,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8036110084964906,0.81120919720033,0.034058799679153776,0.7877363111730677
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_558.pkl,558,f6c604b2-a214-4f08-9370-6c67524dbcc0,1,['ssign_score'],,0.805365718507573,0.8095921123038933,0.03407424052743547,0.8044863832497069
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_554.pkl,554,98226268-2b9f-4d2f-8efc-b4b309165122,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8676797627872498,0.844469963097573,0.029981809560368472,0.8974601197506967
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_554.pkl,554,98226268-2b9f-4d2f-8efc-b4b309165122,1,['ssign_score'],,0.8351556708673091,0.808086500749727,0.030210023873814353,0.8638072817588792
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_551.pkl,551,6573650a-7a5e-4222-a3c2-927a6dba335e,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8865711727842435,0.8914608918721683,0.030118025645692884,0.8839665151675534
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_551.pkl,551,6573650a-7a5e-4222-a3c2-927a6dba335e,1,['ssign_score'],,0.8741271262309759,0.8820223404712034,0.030669270409950104,0.8704032578476767
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_539.pkl,539,0aa85111-fba3-4b58-b02e-12f2023f8a4d,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.853592628687871,0.8497032421024519,0.032823316079996744,0.8793522514879493
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_539.pkl,539,0aa85111-fba3-4b58-b02e-12f2023f8a4d,1,['ssign_score'],,0.83884114467972,0.8318109529573372,0.033471957869422,0.8740176970714592
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_535.pkl,535,adc3fe79-01b6-4d56-9a4e-52a8d8d48a24,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8810978348755727,0.8665783069913162,0.031422020684325744,0.9034252261467518
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_535.pkl,535,adc3fe79-01b6-4d56-9a4e-52a8d8d48a24,1,['ssign_score'],,0.8527535711077172,0.8384686399106883,0.03314114821016393,0.8714247907722702
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_533.pkl,533,b3d8aac0-3fc6-45e9-818e-4678cfec4635,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8437644662531247,0.8414499064129473,0.03234488073908202,0.84326882030159
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_533.pkl,533,b3d8aac0-3fc6-45e9-818e-4678cfec4635,1,['ssign_score'],,0.8315433756133691,0.8283800618907281,0.03251681109378327,0.8359383399638318
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_517.pkl,517,950ca685-4733-4e96-a3cc-8f5001549df2,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8366492617933021,0.8300227656224157,0.0342931633482436,0.8703914750179454
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_517.pkl,517,950ca685-4733-4e96-a3cc-8f5001549df2,1,['ssign_score'],,0.8240907454087144,0.8171427321149791,0.03388032447905143,0.8614856523351058
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_462.pkl,462,b17c4a92-585d-4498-9764-a09c28890f8f,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8737993596584845,0.8764578916822551,0.03166994087975934,0.87482828047763
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_462.pkl,462,b17c4a92-585d-4498-9764-a09c28890f8f,1,['ssign_score'],,0.8490305940946282,0.8465960048345025,0.03303626839407912,0.8598496388294726
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_460.pkl,460,27dd2ccc-fc9c-45d0-b927-8079ceae9973,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8975491079473779,0.8857969216368103,0.026445309620168285,0.9149991701964242
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_460.pkl,460,27dd2ccc-fc9c-45d0-b927-8079ceae9973,1,['ssign_score'],,0.8700666786808434,0.8555041125617739,0.026977251893042627,0.8931587886500307
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_459.pkl,459,818629d3-ab49-4637-a11c-20c3ae569db9,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8486848052065443,0.8324604885970817,0.03271907050694203,0.8690238988470023
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_459.pkl,459,818629d3-ab49-4637-a11c-20c3ae569db9,1,['ssign_score'],,0.8203922986531682,0.7962524750987341,0.03342377639264679,0.8531657983194849
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_457.pkl,457,d36f7e70-7b90-484c-bdb5-fc5af462f8dc,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8105913829689085,0.7807189422822065,0.033696289097994,0.8531719783666327
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_457.pkl,457,d36f7e70-7b90-484c-bdb5-fc5af462f8dc,1,['ssign_score'],,0.7641387581880247,0.7315036234599891,0.033370221259946854,0.8133711841126674
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_433.pkl,433,90ae61cc-ccdb-4aa0-9b85-3731b7532a3d,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8741003787878788,0.864517057639447,0.028362926343630388,0.8899944677790861
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_433.pkl,433,90ae61cc-ccdb-4aa0-9b85-3731b7532a3d,1,['ssign_score'],,0.8434185606060606,0.8321001072858355,0.029039623686418888,0.8594838207262108
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_432.pkl,432,52f62dad-cdf7-4828-b4ea-f2f19eb15fd6,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8345053691912953,0.8185423620209262,0.034166985828939164,0.8640734627192135
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_432.pkl,432,52f62dad-cdf7-4828-b4ea-f2f19eb15fd6,1,['ssign_score'],,0.8502803383065666,0.833944202803341,0.03169805074427264,0.8812929187867762
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_429.pkl,429,35a0f836-b705-4958-a08e-ec38696acba4,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8128554196105463,0.7936334014421379,0.034962251045330614,0.8571536933436518
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_429.pkl,429,35a0f836-b705-4958-a08e-ec38696acba4,1,['ssign_score'],,0.7819662243667069,0.760911671832033,0.035266030615712166,0.8362411705522652
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_395.pkl,395,39a46a6e-c217-4f09-8948-b28ce4d7a915,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.909387683077466,0.899388916263122,0.03048286998779804,0.9317113949690334
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_395.pkl,395,39a46a6e-c217-4f09-8948-b28ce4d7a915,1,['ssign_score'],,0.8835803776248456,0.8666370602818181,0.029810733918425578,0.9180137346871172
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_394.pkl,394,b1813216-e1dc-4240-9942-4bcdcf9126ef,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8538913362701909,0.8394610583589426,0.026014354149203348,0.8852391511326503
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_394.pkl,394,b1813216-e1dc-4240-9942-4bcdcf9126ef,1,['ssign_score'],,0.8411802496328928,0.8286187333024173,0.02684745832932048,0.8720751954207954
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_391.pkl,391,04b831bb-a059-4bd7-a76d-c481f8a46499,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8841315691390235,0.8857310610374853,0.03233085562935111,0.9020218333381582
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_391.pkl,391,04b831bb-a059-4bd7-a76d-c481f8a46499,1,['ssign_score'],,0.8987607156168468,0.8964619774541768,0.03061584097522032,0.9219622224137494
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_379.pkl,379,4b32a8c2-5ca3-459b-b093-b384221f02fe,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8763591881116346,0.8647271712615048,0.03219619843854948,0.8948329915316767
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_379.pkl,379,4b32a8c2-5ca3-459b-b093-b384221f02fe,1,['ssign_score'],,0.8697897789054005,0.8558944048286623,0.03224774145776582,0.897610802479052
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_376.pkl,376,08d846af-dd00-4989-94f4-efffac09d4b2,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8003290058687533,0.7903209979269851,0.03763980423722224,0.8353780116846851
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_376.pkl,376,08d846af-dd00-4989-94f4-efffac09d4b2,1,['ssign_score'],,0.7838787124310866,0.772512239390935,0.0379460516278542,0.8256088337002592
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_367.pkl,367,8096e9e1-77e1-4097-8797-6e35a2c6a522,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8347688123300091,0.8422091699986733,0.033949277210406435,0.8139743689880561
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_367.pkl,367,8096e9e1-77e1-4097-8797-6e35a2c6a522,1,['ssign_score'],,0.8189029918404351,0.8226001682373031,0.03390125870087367,0.8122342775064099
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_342.pkl,342,00d14491-ecf7-466b-bafe-645888e9b5f7,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.9200925431571454,0.9184721688661465,0.03205435720646729,0.9300487144730554
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_342.pkl,342,00d14491-ecf7-466b-bafe-645888e9b5f7,1,['ssign_score'],,0.9145310553479267,0.9127870102435954,0.032550019042431176,0.9220358589682343
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_284.pkl,284,8df5d67c-0352-4762-b028-7a1c419bd1ef,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8625463888095918,0.8515869197740453,0.02858320970505974,0.8858585144943888
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_284.pkl,284,8df5d67c-0352-4762-b028-7a1c419bd1ef,1,['ssign_score'],,0.8358074031782282,0.8240167119595635,0.027911498910189132,0.862279479109441
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_281.pkl,281,267d4d13-79a7-41da-9a7e-4cbe3c18c136,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.7845341899954107,0.7792084683443663,0.03098326937595131,0.7918896210259174
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_281.pkl,281,267d4d13-79a7-41da-9a7e-4cbe3c18c136,1,['ssign_score'],,0.7609453877925654,0.7609413622090386,0.03267213628684378,0.7620481637814757
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_269.pkl,269,5188b9fc-f7a4-4567-ba0d-3a98b74a19b7,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.9083972911963882,0.8939020542152052,0.027006141349124085,0.9461941641285089
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_269.pkl,269,5188b9fc-f7a4-4567-ba0d-3a98b74a19b7,1,['ssign_score'],,0.9110609480812641,0.894737237025874,0.026120011904168555,0.9532437940306103
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_255.pkl,255,37e453e9-5104-48b7-8532-f3d7fbb08ef4,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8753379262230749,0.8553597611508567,0.03231455574267338,0.9003729535958751
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_255.pkl,255,37e453e9-5104-48b7-8532-f3d7fbb08ef4,1,['ssign_score'],,0.8703235371064795,0.8492065856379809,0.032496477803111185,0.9050118515583899
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_250.pkl,250,0c9a2296-c4b5-4b3b-9409-fa40fb4e6f3a,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.9195474544311754,0.9172385360770006,0.030525752948253364,0.9347698785625387
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_250.pkl,250,0c9a2296-c4b5-4b3b-9409-fa40fb4e6f3a,1,['ssign_score'],,0.9079195474544312,0.9098636025211987,0.031152322425240492,0.9189437222060861
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_238.pkl,238,83c901e2-4e16-4ce0-b699-e9fbfdab4de3,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.894049815498155,0.8802253735665602,0.028791679704357344,0.9291022083577888
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_238.pkl,238,83c901e2-4e16-4ce0-b699-e9fbfdab4de3,1,['ssign_score'],,0.8789667896678967,0.8665544360378857,0.029035967144578408,0.915135184959511
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_237.pkl,237,357c6932-fec4-466e-b72f-92187a0217f5,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8734836912570761,0.8819518812896647,0.0331227630655762,0.8707064285043405
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_237.pkl,237,357c6932-fec4-466e-b72f-92187a0217f5,1,['ssign_score'],,0.8866474975289783,0.8899675538435576,0.03377750906120355,0.8938019157669658
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_228.pkl,228,8b14fad1-ba50-4bdc-908b-98df3892ab7b,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8727682679919013,0.8564198938329288,0.03128325056285082,0.9184303649508332
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_228.pkl,228,8b14fad1-ba50-4bdc-908b-98df3892ab7b,1,['ssign_score'],,0.8449291367568562,0.8267621922869013,0.031347791962413225,0.8903824445886845
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_225.pkl,225,ecca6534-907b-405a-a9bd-a8357cadefa1,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8111497275972196,0.7901676513628559,0.03295215543836291,0.8480145792462268
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_225.pkl,225,ecca6534-907b-405a-a9bd-a8357cadefa1,1,['ssign_score'],,0.7739996242720271,0.7536028417101983,0.034275294729236315,0.8118142304844602
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_223.pkl,223,07bac2f7-95a9-4b0d-b654-390c8094c83c,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8991762484983696,0.9006261100490992,0.033901196095742964,0.904323751240436
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_223.pkl,223,07bac2f7-95a9-4b0d-b654-390c8094c83c,1,['ssign_score'],,0.8713746353183456,0.8698612943013388,0.03424600490732006,0.8877932727979277
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_217.pkl,217,c922c136-972c-4927-a20f-7a104a5d428a,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.873698977283012,0.8604836194494658,0.026734180320116898,0.9018051787208197
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_217.pkl,217,c922c136-972c-4927-a20f-7a104a5d428a,1,['ssign_score'],,0.8595347995293692,0.842613244463032,0.027016725669960707,0.8913317028446102
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_209.pkl,209,9648d7d7-edf0-4fa6-9fd2-73f22cfe4a8c,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8694813352476669,0.8588601011730858,0.028164878747838004,0.8952837022267135
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_209.pkl,209,9648d7d7-edf0-4fa6-9fd2-73f22cfe4a8c,1,['ssign_score'],,0.8732950466618808,0.865050765709091,0.028025521063472253,0.8972015565944399
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_207.pkl,207,d43ec042-1039-4c1d-9fbe-417652eb0e2f,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.9247425524089739,0.913356259170675,0.024058968594781488,0.9466107647848635
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_207.pkl,207,d43ec042-1039-4c1d-9fbe-417652eb0e2f,1,['ssign_score'],,0.9221221037146009,0.9161170487132213,0.024614386959689243,0.9394721666041024
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_203.pkl,203,473783ef-9cb1-44b7-b9f6-34f5d53de7d2,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8761737089201878,0.8669506176858098,0.0297744220086319,0.8997774460433048
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_203.pkl,203,473783ef-9cb1-44b7-b9f6-34f5d53de7d2,1,['ssign_score'],,0.8556338028169014,0.8512249420955325,0.029658831424073905,0.8779739084877156
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_200.pkl,200,a6f9d750-cded-4971-93cb-09e6d1d75cc7,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8216131907308378,0.8119999495424265,0.03321097999995259,0.8463589645024008
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_200.pkl,200,a6f9d750-cded-4971-93cb-09e6d1d75cc7,1,['ssign_score'],,0.7933155080213904,0.7824407837546697,0.034204820067066724,0.8132879823751022
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_178.pkl,178,96b84ee3-1127-4b24-8e76-3b616e8c7860,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8437054631828979,0.8319001893850124,0.027727530710131613,0.8542416976792767
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_178.pkl,178,96b84ee3-1127-4b24-8e76-3b616e8c7860,1,['ssign_score'],,0.8078384798099763,0.7941259466343652,0.02845032104447549,0.8232606047555557
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_166.pkl,166,c7e5fa66-9bf7-45aa-8873-8e905694d9c1,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8037246667883878,0.7780781784790023,0.03322266938159287,0.8460454447006022
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_166.pkl,166,c7e5fa66-9bf7-45aa-8873-8e905694d9c1,1,['ssign_score'],,0.7844622968778528,0.7581772642523401,0.034040758270053956,0.826990243996712
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_163.pkl,163,8c37caac-c817-416f-ad35-1edd1fcbdd47,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.9031652360515021,0.8936449466092513,0.02995745679097798,0.9267162221656389
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_163.pkl,163,8c37caac-c817-416f-ad35-1edd1fcbdd47,1,['ssign_score'],,0.9035675965665236,0.8976088090224272,0.030405363849440696,0.9295660590556492
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_160.pkl,160,6803ff31-95ee-4e81-80b9-e835a52ec0e7,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.9155522304311232,0.8976008125814133,0.02420436228291131,0.9369398448448959
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_160.pkl,160,6803ff31-95ee-4e81-80b9-e835a52ec0e7,1,['ssign_score'],,0.9018049191059572,0.8823900508276619,0.024586995025422706,0.9311056680116362
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_142.pkl,142,92a5a73e-4b59-4657-8086-5e22b8830759,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8748539588388604,0.8538162764259769,0.025287406714942694,0.898656928089638
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_142.pkl,142,92a5a73e-4b59-4657-8086-5e22b8830759,1,['ssign_score'],,0.866001617686708,0.8484931168410416,0.02684333071292189,0.8913717355429034
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_136.pkl,136,fbadb9bd-cb0a-406f-8410-012b765c43ed,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.9013376425172817,0.9005152061532241,0.03231464389820252,0.9105772406757036
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_136.pkl,136,fbadb9bd-cb0a-406f-8410-012b765c43ed,1,['ssign_score'],,0.8600412963461711,0.8610104920452704,0.03351655190498746,0.869173934487825
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_129.pkl,129,189d2af5-26b4-4a0d-9e43-3a67f1fbf0b8,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8304751697034656,0.8230143850947641,0.03371805157030875,0.8440942219103533
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_129.pkl,129,189d2af5-26b4-4a0d-9e43-3a67f1fbf0b8,1,['ssign_score'],,0.8170328688817435,0.8051595899593126,0.03351293038119129,0.8397321413999849
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_114.pkl,114,6bca0cf9-13b1-4c70-8201-9b0b414ee915,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8585644812680115,0.833616296980586,0.03237160495010394,0.8993970564300698
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_114.pkl,114,6bca0cf9-13b1-4c70-8201-9b0b414ee915,1,['ssign_score'],,0.8469920749279539,0.8159015055482935,0.031176935922796165,0.8971165992397471
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_104.pkl,104,31715360-5507-437e-8bc3-a1e65580a452,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8976184198963002,0.8726338016581057,0.029756139569189644,0.9351719358556662
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_104.pkl,104,31715360-5507-437e-8bc3-a1e65580a452,1,['ssign_score'],,0.8788557869760084,0.8470993744162081,0.029948187200634493,0.9242666715109166
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_95.pkl,95,ea12b5ca-28ff-4e8f-a1c5-adc94278c7c2,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8419962335216572,0.8229152685768037,0.02733568931763464,0.8810734957801784
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_95.pkl,95,ea12b5ca-28ff-4e8f-a1c5-adc94278c7c2,1,['ssign_score'],,0.834180790960452,0.8093608669818376,0.027695358834750092,0.8860903206345477
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_91.pkl,91,35a6c636-af76-4425-8efa-161ae835f317,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8866945759009829,0.8792032748860971,0.031375419506791916,0.9076582655776565
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_91.pkl,91,35a6c636-af76-4425-8efa-161ae835f317,1,['ssign_score'],,0.8610757189661449,0.8498040186184718,0.03183323062935477,0.8897280728976776
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_90.pkl,90,f16b1c12-d83a-4c95-a14a-9a8acd88e14c,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8925167037861915,0.8842894524758603,0.033246679556078525,0.9105889479927085
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_90.pkl,90,f16b1c12-d83a-4c95-a14a-9a8acd88e14c,1,['ssign_score'],,0.8642316258351893,0.8497646238553442,0.03139487081051196,0.8902518540732202
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_89.pkl,89,fb39a8f6-3292-400a-9bcd-0c82fe32a054,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8606268545994066,0.8539828260534681,0.029387291195835434,0.8837270457821249
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_89.pkl,89,fb39a8f6-3292-400a-9bcd-0c82fe32a054,1,['ssign_score'],,0.8339669881305638,0.825481239196524,0.03002609474945577,0.86079446133891
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_73.pkl,73,3241ab38-e188-49f1-9dff-d34a0be7c3bb,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8864046159394158,0.874934099045528,0.03185475525953109,0.8995427154412979
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_73.pkl,73,3241ab38-e188-49f1-9dff-d34a0be7c3bb,1,['ssign_score'],,0.8644969347277317,0.8516939042068186,0.03194365757658772,0.8827944949954535
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_62.pkl,62,9cd2d82b-bf6f-4ec6-865a-23b7389d0a8d,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8339111111111112,0.8307927700849265,0.0365441919794959,0.8506359823316983
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_62.pkl,62,9cd2d82b-bf6f-4ec6-865a-23b7389d0a8d,1,['ssign_score'],,0.8041777777777778,0.8010904544297789,0.0355407508436901,0.8210154040910528
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_42.pkl,42,9b7f63d7-606c-4584-bb54-d28352dd75a8,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.815519555214724,0.8130263743430027,0.03074229714827035,0.822454301036045
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_42.pkl,42,9b7f63d7-606c-4584-bb54-d28352dd75a8,1,['ssign_score'],,0.8069401840490797,0.8029795879776322,0.030424530796106995,0.8171936557364466
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_40.pkl,40,837699a2-6b4a-4d68-902c-8d06e620dc34,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8723313810693368,0.8571579488655847,0.02825790806504437,0.9000963645469282
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_40.pkl,40,837699a2-6b4a-4d68-902c-8d06e620dc34,1,['ssign_score'],,0.8499905535613074,0.8343444775552984,0.029497427338347808,0.8792864055676114
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_32.pkl,32,a38805c8-c9c8-41e1-b152-3dec071a4122,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.9046215208532038,0.9038938850450019,0.0339645286843685,0.9170098925805952
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_32.pkl,32,a38805c8-c9c8-41e1-b152-3dec071a4122,1,['ssign_score'],,0.8754877308592733,0.872561038886778,0.035069204470524334,0.8918315762401747
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_30.pkl,30,43fb706f-9e93-4f69-9bfb-567a06c45a9d,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8468984781352341,0.8436541544412972,0.028759720228492183,0.8485743041232771
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_30.pkl,30,43fb706f-9e93-4f69-9bfb-567a06c45a9d,1,['ssign_score'],,0.8179059911385089,0.8157891185331484,0.030487128904102295,0.8151766589598993
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_27.pkl,27,c9d18bc6-932c-47e0-a069-e9cc2ea859f0,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8705595650951354,0.8613713255661043,0.03172587766169091,0.8913117638383408
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_27.pkl,27,c9d18bc6-932c-47e0-a069-e9cc2ea859f0,1,['ssign_score'],,0.85757802980598,0.851550164396684,0.03197630689308168,0.8797257482451689
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_25.pkl,25,e1be9622-0f48-476e-a345-c0760a3f97d5,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.7772655426765016,0.7764234261564277,0.03778746059698606,0.7871785712495738
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_25.pkl,25,e1be9622-0f48-476e-a345-c0760a3f97d5,1,['ssign_score'],,0.7661134527572884,0.7706660520802303,0.03794972633354326,0.764900581930365
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_23.pkl,23,948b2580-bd7b-46b3-96c1-a2e071de8431,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8657463856470998,0.8676174138427039,0.038698421369278285,0.8610379088672585
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_23.pkl,23,948b2580-bd7b-46b3-96c1-a2e071de8431,1,['ssign_score'],,0.838137955060094,0.8368634034309248,0.03713908274413683,0.8371045437826042
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_8.pkl,8,aa6b7523-5b73-4a9e-8d18-f5e4179e93a4,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.9072755268982774,0.9048058076208734,0.02705588656053548,0.9153954155430672
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_8.pkl,8,aa6b7523-5b73-4a9e-8d18-f5e4179e93a4,1,['ssign_score'],,0.8836011933403908,0.8780650041519082,0.02777949840683824,0.9018523578481646
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_6.pkl,6,85769807-c8c9-4986-a026-d788b3a57cae,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8775055679287305,0.8763851873695484,0.037935936296505754,0.884425285414603
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_6.pkl,6,85769807-c8c9-4986-a026-d788b3a57cae,1,['ssign_score'],,0.8414253897550111,0.8436152609456424,0.038646812660214136,0.8406340683204435
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_1.pkl,1,603f6313-1a02-48d2-98d3-deab1bafb870,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.85861464270057,0.8325893296744452,0.030953855057463762,0.9060226126282289
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_1.pkl,1,603f6313-1a02-48d2-98d3-deab1bafb870,1,['ssign_score'],,0.8590092064883823,0.832440874154218,0.03143040963021318,0.9073316016771288
+CoxPHSurvivalAnalysis_ssign_finetune_T1,raw_CoxPHSurvivalAnalysis_ssign_finetune_T1_0.pkl,0,0e04f867-e6df-4a41-b5cc-098dc16fa2f7,5,"['ssign_component_pT' 'ssign_component_pN' 'ssign_component_size'
+ 'ssign_component_grade' 'ssign_component_necrosis']",,0.8857662937311312,0.892195513211562,0.03417882858313504,0.8807720594340961
+CoxPHSurvivalAnalysis_ssign_univariate_T1,raw_CoxPHSurvivalAnalysis_ssign_univariate_T1_0.pkl,0,0e04f867-e6df-4a41-b5cc-098dc16fa2f7,1,['ssign_score'],,0.8668975315219322,0.8706375747261618,0.0331567330563631,0.8705545127408704
