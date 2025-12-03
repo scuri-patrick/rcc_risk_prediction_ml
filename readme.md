@@ -79,6 +79,20 @@ The notebooks and scripts are designed to be **run in sequence** based on their 
 - **Goal**: Validate SSIGN model on external dataset, compare performance with the models from the main manuscript
 - `13_review_external_validation_bootstrap.ipynb` - Bootstrap validation on external dataset
 
+#### 14 - Review - Byun Model Recreation
+- **Goal**: Re-create Cox model from Byun et al. paper and validate on DBURI dataset
+- `14_byun_from_hr.ipynb` - Recreate Byun model using hazard ratios from published paper and validate on external data
+
+#### 15 - Review - Inclusion Criteria Validation
+- **Goal**: Verify patient counts and data integrity after applying inclusion/exclusion criteria
+- `15_check_inclusion_drop.ipynb` - Check numerical consistency of patient filtering process
+
+#### 16 - Review - Preprocessing Feature Tracking
+- **Goal**: Document feature retention through each preprocessing step
+- `16_review_preprocessing_larcher.ipynb` - Track features through Clinician's preprocessing pipeline
+- `16_review_preprocessing_raw.ipynb` - Track features through Raw preprocessing pipeline
+- CSV files document retained features after each preprocessing step (step1-9) for both pipelines
+
 ### Validation Methodology
 
 The project employs **Monte Carlo Cross-Validation (MCCV) with 100 simulations** for robust internal validation:
