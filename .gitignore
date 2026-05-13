@@ -143,13 +143,10 @@ cython_debug/
 __pycache__/
 models_json/
 **/artifacts/
+**/papermill/
 sc/
 figures/
 09_review_comments/09_review_comments.ipynb
-10_review_survival_ssign_fintetune/
-11_review_compare_models/
-12_review_train_final_full_dataset/
-13_review_external_validation_bootstrap/
 14_review_byun_from_hr/
 15_review_check_inclusion_drop/
 16_review_preprocessing_details/
