@@ -842,6 +842,9 @@ def plot_feature_importance(
 
         os.makedirs(os.path.dirname(save_path), exist_ok=True)
         fig.savefig(save_path, format="pdf", bbox_inches="tight")
+        # Save source data alongside the figure
+        source_data_path = os.path.splitext(save_path)[0] + ".csv"
+        df.to_csv(source_data_path, index=True)
     plt.show()
 
 
@@ -1617,7 +1620,13 @@ def compare_random_states(df1, df2, name1, name2):
 
 
 def plot_metric_boxplot(
-    df_metrics, metric, time_groups, color_groups, hue_column=None, ax=None
+    df_metrics,
+    metric,
+    time_groups,
+    color_groups,
+    hue_column=None,
+    ax=None,
+    source_data_path=None,
 ):
     """
     Plot a boxplot for a specified metric with specified groupings from the time_groups dictionary,
@@ -1718,6 +1727,14 @@ def plot_metric_boxplot(
     # Set the title of the plot to be the metric name
     ax.set_title(metric)
 
+    if source_data_path is not None:
+        import os as _os
+
+        _os.makedirs(_os.path.dirname(source_data_path), exist_ok=True)
+        df_metrics_long[["model", "Group", "Metric value"]].to_csv(
+            source_data_path, index=False
+        )
+
     return ax
 
 
@@ -1728,6 +1745,7 @@ def plot_features_violin(
     hue_column=None,
     figsize=(12, 6),
     save_path=None,
+    source_data_path=None,
 ):
     """
     Plot a violin plot for the number of features used by different models.
@@ -1795,6 +1813,16 @@ def plot_features_violin(
     plt.tight_layout()
     if save_path is not None:
         plt.savefig(save_path, format="pdf", bbox_inches="tight")
+    if source_data_path is not None:
+        import os as _os
+
+        _os.makedirs(_os.path.dirname(source_data_path), exist_ok=True)
+        cols = ["model", "Group", "n_features_in"]
+        if hue_column and hue_column not in cols:
+            cols.append(hue_column)
+        df_metrics[[c for c in cols if c in df_metrics.columns]].to_csv(
+            source_data_path, index=False
+        )
     plt.show()
 
 
